@@ -36,10 +36,10 @@ Research papers, coding projects, softwares, miscellaneous, etc.
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Moderation or Exploitation? A Study of Algorithmic Management Behind China’s Food Delivery Platforms [[Research Paper]]()</h4>
+<h4>Towards Labor-Aware Algorithmic Management for Gig Work: A Critical Study of China’s Food Delivery Platforms [[Research Paper]]()</h4>
 **Jiayi Wu**
 
-Final research project at CSCI 2952W *Critical Data and Machine Learning Studies*, advised by Professor Harini Suresh
+Final research project at CSCI 2952W *Critical Data and Machine Learning Studies*, advised by Harini Suresh
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Group independent study advised by Suresh Venkatasubramanian and Julia Netter, S
 <h4>The Intractable Other: Modeling Linguistic Reappropriations and Algospeak in Chinese Online (Counter)Subculture [[Research Paper in Progress]]()</h4>
 **Jiayi Wu**
 
-Independent research project advised by Simone Sayers; project prototype implemented at Laborinfo-Laborfact
+Independent research project advised by Simone Sayers; project prototype implemented at a local legal nonprofit
 </div>
 </div>
 
@@ -65,7 +65,7 @@ Independent research project advised by Simone Sayers; project prototype impleme
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>AsyLex-Based Refugee-Claim Entity Extraction and Judgement Prediction [[Project Repository]]()</h4>
+<h4>AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[Project]](https://github.com/jiayiw005/refugee-claim-classifier)</h4>
 **Jiayi Wu, Tiara Clyde**
 
 NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by Gillian Sochor
@@ -74,14 +74,14 @@ NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by Gillian Soc
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>A Confluence of Fragmented Marginality: Young Labor Narratives from Southern China [[Digital Map]]()</h4>
+<h4>A Confluence of Fragmented Marginality: Young Labor Narratives from Southern China [[Digital Map]](https://uploads.knightlab.com/storymapjs/e183b6654e83bad94fe4641c8706e3e0/sui-pian-2/index.html)</h4>
 **Jiayi Wu, HOPE Academy**
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Android Mobile Application for Educational Resource Exchange [[Software]]()</h4>
+<h4>Android Mobile Application for Educational Resource Exchange [[Software]](https://github.com/jiayiw005/converter-android-app)</h4>
 **Jiayi Wu, Converter Education Initiative**
 </div>
 </div>
@@ -90,9 +90,9 @@ NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by Gillian Soc
 <div class="col-md-12 col-sm-12">
 <h4>Shout Through the Air: Rhetoric of China’s
 Lower-Class "Toilet Girl" as Empowerment and
-Subversion [[Research Paper]]()</h4>
+Subversion [[Research Paper]](https://pioneeracademics.com/journal/journal-2023/)</h4>
 **Jiayi Wu**
 
-Advised by Professor Kevin Marinelli under the research concentration *Rhetoric and Social Movements*, published on the Pioneer Research Journal 2023 (top 1.8% among all papers from the entire academic year)
+Advised by Professor Kevin Marinelli under the research concentration *Rhetoric and Social Movements*, published on the Pioneer Research Journal 2023 (top 1.8% among all papers from the academic year)
 </div>
 </div>
