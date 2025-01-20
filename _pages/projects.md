@@ -45,7 +45,7 @@ Final research project at CSCI 2952W *Critical Data and Machine Learning Studies
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>AI Primer Research, Socially Responsible Computing Handbook [[Research Project]]()</h4>
+<h4>AI Primer Research, Socially Responsible Computing Handbook [[Research Project]](https://src-handbook-infrastructure-team.github.io/srch/)</h4>
 **Jiayi Wu**
 
 Group independent study advised by Suresh Venkatasubramanian and Julia Netter, Socially Responsible Computing (SRC) Program at Brown University Department of Computer Science and Center for Tech Responsibility
@@ -94,5 +94,15 @@ Subversion [[Research Paper]](https://pioneeracademics.com/journal/journal-2023/
 **Jiayi Wu**
 
 Advised by Professor Kevin Marinelli under the research concentration *Rhetoric and Social Movements*, published on the Pioneer Research Journal 2023 (top 1.8% among all papers from the academic year)
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Modeling Honeybee Population Dynamics [[Research Paper]](https://jiayiw005.github.io/papers/Jiayi_HIMCM_Paper.pdf)</h4>
+**Jiayi Wu, Alex Ren, Kaixin Luo, Haiqing Wu**
+
+Math modeling paper from COMAP'S High School Mathematical Contest in Modeling (HiMCM), awarded Meritorious (top 15%)
 </div>
 </div>
