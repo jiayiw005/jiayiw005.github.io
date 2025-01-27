@@ -36,7 +36,7 @@ Research papers, coding projects, softwares, miscellaneous, etc.
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Towards Labor-Aware Algorithmic Management for Gig Work: A Critical Study of China’s Food Delivery Platforms [[Research Paper]]()</h4>
+<h4>Towards Labor-Aware Algorithmic Management for Gig Work: A Critical Study of China’s Food Delivery Platforms</h4>
 **Jiayi Wu**
 
 Final research project at CSCI 2952W *Critical Data and Machine Learning Studies*, advised by Harini Suresh
@@ -54,7 +54,7 @@ Group independent study advised by Suresh Venkatasubramanian and Julia Netter, S
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>The Intractable Other: Modeling Linguistic Reappropriations and Algospeak in Chinese Online (Counter)Subculture [[Research Paper in Progress]]()</h4>
+<h4>The Intractable Other: Modeling Linguistic Reappropriations and Algospeak in Chinese Online (Counter)Subculture</h4>
 **Jiayi Wu**
 
 Independent research project advised by Simone Sayers; project prototype implemented at a local legal nonprofit
