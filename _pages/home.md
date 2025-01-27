@@ -14,9 +14,9 @@ I am a first-year undergraduate student at Brown University, concentrating in Ma
 #### My Work
 
 I worked with a variety of organizations and initiatives in Shanghai, Guangzhou, Liangshan, and Providence. Here is a list of my ongoing projects: 
-- Towards Labor-Aware Algorithmic Management for Gig Work: A Critical Study of China’s Food Delivery Platforms, Advised by Harini Suresh
-- AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[Project Repository]](https://github.com/jiayiw005/refugee-claim-classifier), Advised by Gillian Sochor
-- The Intractable Other: Modeling Linguistic Reappropriations and Algospeak in Chinese Online (Counter)Subculture, Advised by Simeon Sayers
+- Towards Labor-Aware Algorithmic Management for Gig Work: A Critical Study of China’s Food Delivery Platforms, Advised by [Harini Suresh](https://harinisuresh.com/)
+- AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[Project Repository]](https://github.com/jiayiw005/refugee-claim-classifier), Advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor)
+- AI Primer Research at Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/), Advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/)
 - ...
 
 A comprehensive list is available in [Projects](https://jiayiw005.github.io/projects/) and my [CV](https://jiayiw005.github.io/cv/cv.pdf). Please feel free to reach out if you have any questions, ideas, or would like to work with me! 

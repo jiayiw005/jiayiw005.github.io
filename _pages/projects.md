@@ -45,7 +45,7 @@ Final research project at CSCI 2952W *Critical Data and Machine Learning Studies
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>AI Primer Research, Socially Responsible Computing Handbook [[Research Project]](https://src-handbook-infrastructure-team.github.io/srch/)</h4>
+<h4>AI Primer Research, Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/)</h4>
 **Jiayi Wu**
 
 Group independent study advised by Suresh Venkatasubramanian and Julia Netter, Socially Responsible Computing (SRC) Program at Brown University Department of Computer Science and Center for Tech Responsibility
