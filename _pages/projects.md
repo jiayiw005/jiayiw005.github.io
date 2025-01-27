@@ -30,8 +30,6 @@ iframe {
 }
 </style>
 
-Research papers, coding projects, softwares, miscellaneous, etc.
-
 #### Ongoing Projects
 
 <div class="jumbotron">
@@ -65,7 +63,7 @@ Independent research project advised by Simone Sayers; project prototype impleme
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[Project]](https://github.com/jiayiw005/refugee-claim-classifier)</h4>
+<h4>AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[GitHub Repository]](https://github.com/jiayiw005/refugee-claim-classifier)</h4>
 **Jiayi Wu, Tiara Clyde**
 
 NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by Gillian Sochor
@@ -81,7 +79,7 @@ NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by Gillian Soc
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Android Mobile Application for Educational Resource Exchange [[Software]](https://github.com/jiayiw005/converter-android-app)</h4>
+<h4>Open-Sourced Android Mobile Application for Educational Resource Sharing [[GitHub Repository]](https://github.com/jiayiw005/converter-android-app)</h4>
 **Jiayi Wu, Converter Education Initiative**
 </div>
 </div>
