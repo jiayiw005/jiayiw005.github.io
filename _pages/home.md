@@ -15,9 +15,9 @@ I am a first-year undergraduate student at Brown University, concentrating in Ma
 
 I worked with a variety of organizations and initiatives in Shanghai, Guangzhou, Liangshan, and Providence. Here is a list of my projects: 
 - Open-Sourced Android Mobile Application for Educational Resource Sharing [[GitHub Repository]](https://github.com/jiayiw005/converter-android-app), at Converter Education Initiative
-- Towards Labor-Aware Algorithmic Management for Gig Work: A Critical Study of China’s Food Delivery Platforms, Advised by [Harini Suresh](https://harinisuresh.com/)
-- AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[Project Repository]](https://github.com/jiayiw005/refugee-claim-classifier), Advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor)
-- AI Primer Research at Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/), Advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/)
+- Towards Labor-Aware Algorithmic Management for Gig Work: A Critical Study of China’s Food Delivery Platforms, Advised by [Harini Suresh](https://harinisuresh.com/) at CSCI 2952W Critical Data and Machine Learning Studies
+- AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[Project Repository]](https://github.com/jiayiw005/refugee-claim-classifier), Advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor) at AI4ALL Ignite Accelerator
+- AI Primer Research for Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/), Advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/) at Brown Uiversity Department of Computer Science and Center for Technology Responsibility (CNTR)
 - ...
 
 A comprehensive list is available in [Projects](https://jiayiw005.github.io/projects/) and my [CV](https://jiayiw005.github.io/cv/cv.pdf). Please feel free to reach out if you have any questions, ideas, or would like to work with me! 
