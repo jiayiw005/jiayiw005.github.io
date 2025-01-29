@@ -37,7 +37,7 @@ iframe {
 <h4>Towards Labor-Aware Algorithmic Management for Gig Work: A Critical Study of China’s Food Delivery Platforms</h4>
 **Jiayi Wu**
 
-Final research project at CSCI 2952W *Critical Data and Machine Learning Studies*, advised by Harini Suresh
+Research project at CSCI 2952W *Critical Data and Machine Learning Studies* and [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/), advised by [Harini Suresh](https://harinisuresh.com/)
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Final research project at CSCI 2952W *Critical Data and Machine Learning Studies
 <h4>AI Primer Research, Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/)</h4>
 **Jiayi Wu**
 
-Group independent study advised by Suresh Venkatasubramanian and Julia Netter, Socially Responsible Computing (SRC) Program at Brown University Department of Computer Science and Center for Tech Responsibility
+Group independent study advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/), [Socially Responsible Computing (SRC) Program](https://responsible.cs.brown.edu/) at Brown University Department of Computer Science and Center for Tech Responsibility
 </div>
 </div>
 
@@ -55,7 +55,7 @@ Group independent study advised by Suresh Venkatasubramanian and Julia Netter, S
 <h4>The Intractable Other: Modeling Linguistic Reappropriations and Algospeak in Chinese Online (Counter)Subculture</h4>
 **Jiayi Wu**
 
-Independent research project advised by Simone Sayers; project prototype implemented at a local legal nonprofit
+Independent research project advised by [Simone Sayers](https://simsayer.com/); project prototype implemented at a local legal nonprofit
 </div>
 </div>
 
@@ -66,7 +66,7 @@ Independent research project advised by Simone Sayers; project prototype impleme
 <h4>AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[GitHub Repository]](https://github.com/jiayiw005/refugee-claim-classifier)</h4>
 **Jiayi Wu, Tiara Clyde**
 
-NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by Gillian Sochor
+NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor)
 </div>
 </div>
 
@@ -91,7 +91,7 @@ Lower-Class "Toilet Girl" as Empowerment and
 Subversion [[Research Paper]](https://pioneeracademics.com/journal/journal-2023/)</h4>
 **Jiayi Wu**
 
-Advised by Professor Kevin Marinelli under the research concentration *Rhetoric and Social Movements*, published on the Pioneer Research Journal 2023 (top 1.8% among all papers from the academic year)
+Advised by [Kevin Marinelli](https://comm.unc.edu/people/department-faculty/kevin-marinelli/) under the research concentration *Rhetoric and Social Movements*, published on the Pioneer Research Journal 2023 (top 1.8% among all papers from the academic year)
 </div>
 </div>
 
