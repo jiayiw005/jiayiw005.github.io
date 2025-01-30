@@ -46,7 +46,7 @@ Research project at CSCI 2952W *Critical Data and Machine Learning Studies* and 
 <h4>AI Primer Research, Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/)</h4>
 **Jiayi Wu**
 
-Group independent study advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/), [Socially Responsible Computing (SRC) Program](https://responsible.cs.brown.edu/) at Brown University Department of Computer Science and Center for Tech Responsibility
+Research project at Brown University Department of Computer Science and Center for Tech Responsibility, advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/), [Socially Responsible Computing (SRC) Program](https://responsible.cs.brown.edu/)
 </div>
 </div>
 
@@ -91,7 +91,7 @@ Lower-Class "Toilet Girl" as Empowerment and
 Subversion [[Research Paper]](https://pioneeracademics.com/journal/journal-2023/)</h4>
 **Jiayi Wu**
 
-Advised by [Kevin Marinelli](https://comm.unc.edu/people/department-faculty/kevin-marinelli/) under the research concentration *Rhetoric and Social Movements*, published on the Pioneer Research Journal 2023 (top 1.8% among all papers from the academic year)
+Research project at Pioneer Academics, advised by [Kevin Marinelli](https://comm.unc.edu/people/department-faculty/kevin-marinelli/) under the research concentration *Rhetoric and Social Movements*; published on the Pioneer Research Journal 2023 (top 1.8%)
 </div>
 </div>
 
@@ -101,6 +101,6 @@ Advised by [Kevin Marinelli](https://comm.unc.edu/people/department-faculty/kevi
 <h4>Modeling Honeybee Population Dynamics [[Research Paper]](https://jiayiw005.github.io/papers/Jiayi_HIMCM_Paper.pdf)</h4>
 **Jiayi Wu, Alex Ren, Kaixin Luo, Haiqing Wu**
 
-Math modeling paper from COMAP'S High School Mathematical Contest in Modeling (HiMCM), awarded Meritorious (top 15%)
+Math modeling paper at COMAP'S High School Mathematical Contest in Modeling (HiMCM), awarded Meritorious (top 15%)
 </div>
 </div>
