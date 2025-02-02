@@ -26,6 +26,6 @@ A comprehensive list is available in [Projects](https://jiayiw005.github.io/proj
 
 #### Something Else
 
-In my spare time, I love walking aimlessly around residential urban villages, crafting collage/zine, and doing plank challenges ;")
+In my spare time, I love reading, roaming around residential urban villages (Guangzhou/Shanghai, where I lived and volunteered🏠), crafting collages/zines, and doing plank challenges ;")
 
 Besides, take a look my [terminal-style website experiment]()! 
