@@ -63,6 +63,13 @@ Independent research project advised by [Simone Sayers](https://simsayer.com/); 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
+<h4>Connect4 AI Optimizer/Solver</h4>
+**Jiayi Wu, Heran Wang**
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
 <h4>AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[GitHub Repository]](https://github.com/jiayiw005/refugee-claim-classifier)</h4>
 **Jiayi Wu, Tiara Clyde**
 
