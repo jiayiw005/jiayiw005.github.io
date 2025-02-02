@@ -43,6 +43,15 @@ Research project at CSCI 2952W *Critical Data and Machine Learning Studies* and 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
+<h4>Open-Sourced Software for Water Filtration Monitoring and Shared Data Analysis, GLBL Foundation [[Website]](https://glblfoundation.notion.site/The-Water-Purifier-833c5e2cc24046b38169697cf1a49d90)</h4>
+**Jiayi Wu, Kasey Savage, Marley Abowitz, Tiffany Cai, Tommy Callen**
+
+Project at GLBL Foundation, supervised by Delaney Dill and Nelson Ngouenet
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
 <h4>AI Primer Research, Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/)</h4>
 **Jiayi Wu**
 
@@ -63,17 +72,17 @@ Independent research project advised by [Simone Sayers](https://simsayer.com/); 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Efficient Adversarial AI Solver for Connect 4 with Minimax Optimization and Search Pruning</h4>
-**Jiayi Wu, Heran Wang**
+<h4>AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[GitHub Repository]](https://github.com/jiayiw005/refugee-claim-classifier)</h4>
+**Jiayi Wu, Tiara Clyde**
+
+NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor)
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[GitHub Repository]](https://github.com/jiayiw005/refugee-claim-classifier)</h4>
-**Jiayi Wu, Tiara Clyde**
-
-NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor)
+<h4>Efficient Adversarial AI Solver for Connect 4 with Minimax Optimization and Search Pruning</h4>
+**Jiayi Wu, Heran Wang**
 </div>
 </div>
 
@@ -86,8 +95,8 @@ NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by [Gillian So
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Open-Sourced Android Mobile Application for Educational Resource Sharing [[GitHub Repository]](https://github.com/jiayiw005/converter-android-app)</h4>
-**Jiayi Wu, Converter Education Initiative**
+<h4>Open-Sourced Android Mobile Application for Educational Resource Sharing, Converter Education Initiative [[GitHub Repository]](https://github.com/jiayiw005/converter-android-app)</h4>
+**Jiayi Wu**
 </div>
 </div>
 
@@ -105,7 +114,7 @@ Research project at Pioneer Academics, advised by [Kevin Marinelli](https://comm
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Modeling Honeybee Population Dynamics [[Research Paper]](https://jiayiw005.github.io/papers/Jiayi_HIMCM_Paper.pdf)</h4>
+<h4>Multi-Factor ODE Simulation and Sensitivity Analysis of Honeybee Population Dynamics [[Research Paper]](https://jiayiw005.github.io/papers/Jiayi_HIMCM_Paper.pdf)</h4>
 **Jiayi Wu, Alex Ren, Kaixin Luo, Haiqing Wu**
 
 Math modeling paper at COMAP'S High School Mathematical Contest in Modeling (HiMCM), awarded Meritorious (top 15%)
