@@ -63,7 +63,7 @@ Independent research project advised by [Simone Sayers](https://simsayer.com/); 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Connect4 AI Optimizer/Solver</h4>
+<h4>Efficient Adversarial AI Solver for Connect 4 with Minimax Optimization and Search Pruning</h4>
 **Jiayi Wu, Heran Wang**
 </div>
 </div>
