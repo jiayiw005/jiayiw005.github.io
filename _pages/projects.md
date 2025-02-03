@@ -97,6 +97,7 @@ NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by [Gillian So
 <div class="col-md-12 col-sm-12">
 <h4>Enhancing Anonymity in Education Survey Datasets: Differential Privacy Implementation to Mitigate Linkage Attacks</h4>
 **Jiayi Wu**
+
 IB Mathematics Analysis & Approches Internal Assessment
 </div>
 </div>
