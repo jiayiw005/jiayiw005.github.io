@@ -88,15 +88,23 @@ NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by [Gillian So
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>A Confluence of Fragmented Marginality: Young Labor Narratives from Southern China [[Digital Map]](https://uploads.knightlab.com/storymapjs/e183b6654e83bad94fe4641c8706e3e0/sui-pian-2/index.html)</h4>
-**Jiayi Wu, HOPE Academy**
+<h4>Open-Sourced Android Mobile Application for Educational Resource Sharing, Converter Education Initiative [[GitHub Repository]](https://github.com/jiayiw005/converter-android-app)</h4>
+**Jiayi Wu**
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Open-Sourced Android Mobile Application for Educational Resource Sharing, Converter Education Initiative [[GitHub Repository]](https://github.com/jiayiw005/converter-android-app)</h4>
+<h4>Enhancing Anonymity in Education Survey Datasets: Differential Privacy Implementation to Mitigate Linkage Attacks</h4>
 **Jiayi Wu**
+IB Mathematics Analysis & Approches Internal Assessment
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>A Confluence of Fragmented Marginality: Young Labor Narratives from Southern China [[Digital Map]](https://uploads.knightlab.com/storymapjs/e183b6654e83bad94fe4641c8706e3e0/sui-pian-2/index.html)</h4>
+**Jiayi Wu, HOPE Academy**
 </div>
 </div>
 
