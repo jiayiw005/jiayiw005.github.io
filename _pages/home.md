@@ -9,7 +9,7 @@ permalink: /
 
 I am a first-year undergraduate student at Brown University, concentrating in Mathematics-Computer Science and Urban Studies. As a student researcher and developer, I'm excited about anything broadly related to symbolic systems, sociotechnical **infrastructures**, and participatory or distributed AI. 
 
-I'd describe my approach as some entangled dualities: when it involves probing into theory research that configures higher-level policy decisions, I'm also making my way to explore downstream, grassroots solutions that center and empower community-driven technologies. 
+I'm passionate about this dual approach: when probing into theory research that configures higher-level policy decisions, I'm also making my way to explore downstream, grassroots solutions that center and empower community-driven technologies. 
    
 
 
