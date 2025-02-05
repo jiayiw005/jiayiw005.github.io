@@ -1,6 +1,7 @@
 ---
 ---
 
+$baseurl: "{{ site.url }}{{ site.baseurl }}";
 
 // @import "variables";
 @import "bootstrap/bootstrap";
