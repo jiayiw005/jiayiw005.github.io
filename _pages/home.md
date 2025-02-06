@@ -26,6 +26,6 @@ A comprehensive list is available in [Projects](https://jiayiw005.github.io/proj
 
 #### Something Else
 
-I enjoy random codes, historical/science fictions, dumbell workout, roaming around residential urban villages (Guangzhou/Shanghai, where I lived and volunteered🏠), crafting collages/zines, and doing plank challenges ;")
+I enjoy random codes, historical/science fictions, dumbell workout, roaming around residential urban villages ([Guangzhou](https://earth.google.com/earth/d/1YTg7TO4ODp5iSL_rj1xVqPlo7tOaysCh?usp=sharing)/Shanghai, where I lived and volunteered🏠), crafting collages/zines, and doing plank challenges ;")
 
 Besides, take a look my [terminal-style website experiment]()! 
