@@ -75,7 +75,7 @@ Independent research project advised by [Simone Sayers](https://simsayer.com/); 
 <h4>AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[GitHub Repository]](https://github.com/jiayiw005/refugee-claim-classifier)</h4>
 **Jiayi Wu, Tiara Clyde**
 
-NLP Track Portfolio Project at AI4ALL Ignite Accelerator, advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor)
+NLP Track Portfolio Project at AI4ALL Ignite Fellowship, advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor)
 </div>
 </div>
 
