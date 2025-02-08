@@ -8,9 +8,9 @@ permalink: /
 ### About Me
 
 I am a first-year undergraduate student at Brown University, concentrating in Mathematics-Computer Science and Urban Studies. As a student researcher and developer, I'm excited about anything broadly related to **complex systems** and **infrastructures**: 
-- symbolic systems; multi-agent systems
-- complexity theory
-- sociotechnical infrastructures & governance
+- symbolic systems and multi-agent systems
+- complexity theory and complex systems
+- sociotechnical infrastructures and governance
 - accessiblity, distributivity, and public participation
 - intersections of any terms above
 - ...
@@ -34,4 +34,4 @@ A comprehensive list is available in [Projects](https://jiayiw005.github.io/proj
 
 I enjoy random codes, historical/science fictions, dumbell workout, roaming around residential urban villages ([Guangzhou](https://earth.google.com/earth/d/1YTg7TO4ODp5iSL_rj1xVqPlo7tOaysCh?usp=sharing)/Shanghai, where I lived and volunteered🏠), crafting collages/zines, and doing plank challenges ;")
 
-Besides, take a look my [terminal-style website experiment]()! 
+Besides, check out my [terminal-style website experiment]()! 
