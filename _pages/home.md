@@ -10,7 +10,7 @@ permalink: /
 I am a first-year undergraduate student at Brown University, concentrating in Mathematics-Computer Science and Urban Studies. As a student researcher and developer, I'm excited about anything broadly related to **complex systems** and **infrastructures**: 
 - symbolic systems and multi-agent systems
 - complexity theory and complex systems
-- sociotechnical infrastructures and governance
+- sociotechnical infrastructures and governance (for urban landscapes in particular)
 - accessiblity, distributivity, and public participation
 - intersections of any terms above
 - ...
