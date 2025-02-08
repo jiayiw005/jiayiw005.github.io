@@ -7,9 +7,15 @@ permalink: /
 
 ### About Me
 
-I am a first-year undergraduate student at Brown University, concentrating in Mathematics-Computer Science and Urban Studies. As a student researcher and developer, I'm excited about anything broadly related to symbolic systems, sociotechnical **infrastructures**, and participatory or distributed AI. 
+I am a first-year undergraduate student at Brown University, concentrating in Mathematics-Computer Science and Urban Studies. As a student researcher and developer, I'm excited about anything broadly related to **complex systems** and **infrastructures**: 
+- symbolic systems; multi-agent systems
+- complexity theory
+- sociotechnical infrastructures & governance
+- accessiblity, distributivity, and public participation
+- intersections of any terms above
+- ...
 
-My dual passion/approach: when probing into theory research that configures higher-level policy decisions, I'm also making my way to explore downstream, grassroots solutions that center and empower community-driven technologies. 
+When probing into theories that configures higher-level decisions, I'm also making my way to explore downstream, grassroots solutions that center and empower community-driven technologies. 
    
 
 
@@ -22,7 +28,7 @@ I work with a variety of labs, organizations, and initiatives in Shanghai, Guang
 - AI Primer Research for Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/), Advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/) at Brown Uiversity Department of Computer Science and [Center for Technology Responsibility (CNTR)](https://cntr.brown.edu/)
 - ...
 
-A comprehensive list is available in [Projects](https://jiayiw005.github.io/projects/) and my [CV](https://jiayiw005.github.io/cv/cv.pdf). Please feel free to reach out if you have any questions, ideas, or would like to work with me! 
+A comprehensive list is available in [Projects](https://jiayiw005.github.io/projects/) and my [CV](https://jiayiw005.github.io/cv/cv.pdf). Please feel free to [reach out](mailto:jiayi_wu4@brown.edu) if you have any questions, ideas, or would like to work with me! 
 
 #### Something Else
 
