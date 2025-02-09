@@ -61,7 +61,7 @@ Research project at Brown University Department of Computer Science and [Center 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>The Intractable Other: Modeling Linguistic Reappropriations and Algospeak in Chinese Online (Counter)Subculture</h4>
+<h4>When Complexities Clash: Experimenting Multi-Agent-Based Algospeak and Its Intractability in Censorship Evasion</h4>
 **Jiayi Wu**
 
 Independent research project advised by [Simone Sayers](https://simsayer.com/); project prototype implemented at a local legal nonprofit
