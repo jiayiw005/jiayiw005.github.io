@@ -22,7 +22,7 @@ When probing into theories that configures higher-level decisions, I'm also maki
 
 I work with a variety of labs, organizations, and initiatives in Shanghai, Guangzhou, Liangshan, and Providence. Here is a list of my projects: 
 - Open-Sourced Android Mobile Application for Educational Resource Sharing [[Project Repository]](https://github.com/jiayiw005/converter-android-app), at Converter Education Initiative
-- Towards Labor-Aware Algorithmic Management for Gig Work: A Critical Study of China’s Food Delivery Platforms, Advised by [Harini Suresh](https://harinisuresh.com/) at [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/) and CSCI 2952W *Critical Data and Machine Learning Studies*
+- Fairness and Efficiency in Labor-Inclusive Food Delivery Algorithmic Management: Cross-Platforms Case Studies and Computational Approaches, Advised by [Harini Suresh](https://harinisuresh.com/) at [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/) and CSCI 2952W *Critical Data and Machine Learning Studies*
 - AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[Project Repository]](https://github.com/jiayiw005/refugee-claim-classifier), Advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor) at AI4ALL Ignite Fellowship
 - AI Primer Research for Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/), Advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/) at Brown Uiversity Department of Computer Science and [Center for Technology Responsibility (CNTR)](https://cntr.brown.edu/)
 - ...
