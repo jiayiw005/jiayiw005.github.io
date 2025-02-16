@@ -34,7 +34,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Fairness and Efficiency in Labor-Inclusive Food Delivery Algorithmic Management: Cross-Platforms Case Studies and Computational Approaches</h4>
+<h4>Toward Labor-Inclusive Food Delivery Algorithmic Management: Cross-Platforms Case Studies, Computational Approaches, and Regulatory Alternatives</h4>
 **Jiayi Wu**
 
 Research project at CSCI 2952W *Critical Data and Machine Learning Studies* and [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/), advised by [Harini Suresh](https://harinisuresh.com/)
