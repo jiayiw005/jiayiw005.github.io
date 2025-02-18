@@ -111,9 +111,7 @@ IB Mathematics Analysis & Approches Internal Assessment
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Shout Through the Air: Rhetoric of China’s
-Lower-Class "Toilet Girl" as Empowerment and
-Subversion [[Research Paper]](https://pioneeracademics.com/journal/journal-2023/)</h4>
+<h4>Shout Through the Air: A Digital Ethnography on the Rhetoric of China’s Lower-Class "Toilet Girl" as Empowerment and Subversion [[Research Paper]](https://pioneeracademics.com/journal/journal-2023/)</h4>
 **Jiayi Wu**
 
 Research project at Pioneer Academics, advised by [Kevin Marinelli](https://comm.unc.edu/people/department-faculty/kevin-marinelli/) under the research concentration *Rhetoric and Social Movements*; published on the Pioneer Research Journal 2023 (top 1.8%)
