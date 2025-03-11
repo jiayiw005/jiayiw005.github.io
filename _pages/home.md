@@ -6,11 +6,12 @@ permalink: /
 ---
 
 ### About Me
+
 #### Hey there!
-I am a first-year undergraduate student at Brown University, concentrating in Mathematics-Computer Science and Urban Studies. As a student researcher and developer, I'm excited about anything broadly related to **complex systems** and **infrastructures**: 
-- symbolic systems, multi-agent systems, and complexity theory
+I am an undergraduate student at Brown University, studying in Mathematics-Computer Science and Urban Studies. As a student researcher and developer, I'm excited about anything broadly related to **complex systems** and **relevant AI/ML applications**: 
+- symbolic systems, multi-agent systems for language agents
 - complex systems and sociotechnical infrastructure/governance (for urban landscapes and workplace algorithmic management in particular)
-- accessiblity, distributivity, and public participation
+- accessiblity, distributivity, and participation under contexts of fairness, transparency, interpretability, and auditing
 - intersections of any terms above
 - ...
 
