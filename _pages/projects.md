@@ -52,7 +52,7 @@ Project at GLBL Foundation, supervised by Delaney Dill and Nelson Ngouenet
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>AI Primer Research, Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/)</h4>
+<h4>AI Fairness & Justice Research, Socially Responsible Computing (SRC) Handbook [[Handbook]](https://src-handbook-infrastructure-team.github.io/srch/)</h4>
 **Emma Huang, Jiayi Wu, Jo Gasior-Kavishe, Samdeet Khan, Selena Williams**
 
 Research project at Brown University Department of Computer Science and [Center for Tech Responsibility (CNTR)](https://cntr.brown.edu/), advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/), [Socially Responsible Computing (SRC) Program](https://responsible.cs.brown.edu/)
@@ -68,7 +68,7 @@ Independent research project advised by [Simone Sayers](https://simsayer.com/); 
 </div>
 </div>
 
-#### Past Projects
+#### Archived Projects
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
