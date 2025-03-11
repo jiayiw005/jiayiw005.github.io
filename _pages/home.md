@@ -7,7 +7,6 @@ permalink: /
 
 ### About Me
 
-#### Hey there!
 I am an undergraduate student at Brown University, studying in Mathematics-Computer Science and Urban Studies. As a student researcher and developer, I'm excited about anything broadly related to **complex systems** and **relevant AI/ML applications**: 
 - symbolic systems, multi-agent systems for language agents
 - complex systems and sociotechnical infrastructure/governance (for urban landscapes and workplace algorithmic management in particular)
