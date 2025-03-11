@@ -33,7 +33,7 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: projects
-  - name: updates
+
 
 include:
   - .htaccess
