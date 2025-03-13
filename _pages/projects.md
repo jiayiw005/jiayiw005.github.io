@@ -52,9 +52,10 @@ Independent research project advised by [Simone Sayers](https://simsayer.com/); 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Toward Collective Stewardship of Labour Data: Reimagining Frameworks for Union Data Aggregation, Access, and Governance</h4>
+<h4>Open-Sourced Software for Water Filtration Monitoring and Shared Data Analysis, GLBL Foundation [[Website]](https://glblfoundation.notion.site/The-Water-Purifier-833c5e2cc24046b38169697cf1a49d90)</h4>
+**Jiayi Wu, Kasey Savage, Marley Abowitz, Tiffany Cai, Tommy Callen**
 
-Research project at [Labor Process and Technology Lab](), advised by [Vera Khovanskaya](https://verakhovanskaya.github.io/)
+Project at GLBL Foundation, supervised by Delaney Dill and Nelson Ngouenet
 </div>
 </div>
 
@@ -69,15 +70,6 @@ Research project at Brown University Department of Computer Science and [Center 
 
 
 #### Archived Projects
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Open-Sourced Software for Water Filtration Monitoring and Shared Data Analysis, GLBL Foundation [[Website]](https://glblfoundation.notion.site/The-Water-Purifier-833c5e2cc24046b38169697cf1a49d90)</h4>
-**Jiayi Wu, Kasey Savage, Marley Abowitz, Tiffany Cai, Tommy Callen**
-
-Project at GLBL Foundation, supervised by Delaney Dill and Nelson Ngouenet
-</div>
-</div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -117,13 +109,6 @@ NLP Track Portfolio Project at AI4ALL Ignite Fellowship, advised by [Gillian Soc
 **Jiayi Wu**
 
 IB Mathematics Analysis & Approches Internal Assessment
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>A Confluence of Fragmented Marginality: Young Labor Narratives from Southern China [[Digital Map]](https://uploads.knightlab.com/storymapjs/e183b6654e83bad94fe4641c8706e3e0/sui-pian-2/index.html)</h4>
-**Jiayi Wu, HOPE Academy**
 </div>
 </div>
 
