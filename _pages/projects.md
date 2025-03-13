@@ -73,10 +73,8 @@ Research project at Brown University Department of Computer Science and [Center 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>When Complexities Clash: Experimenting Multi-Agent-Based Algospeak and Its Intractability in Censorship Evasion</h4>
-**Jiayi Wu**
-
-Independent research project advised by [Simone Sayers](https://simsayer.com/); project prototype implemented at a local legal nonprofit
+<h4>Adaptive Decision Tree Builder with Optimized Attribute Selection and Leaf Computation</h4>
+**Jiayi Wu, Xiaoxiao Chen**
 </div>
 </div>
 
