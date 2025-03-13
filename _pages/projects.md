@@ -43,18 +43,18 @@ Research project at CSCI 2952W *Critical Data and Machine Learning Studies* and 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Toward Collective Stewardship of Labour Data: Reimagining Frameworks for Union Data Aggregation, Access, and Governance</h4>
+<h4>When Complexities Clash: Experimenting Multi-Agent-Based Algospeak and Its Intractability in Censorship Evasion</h4>
+**Jiayi Wu**
 
-Research project at [Labor Process and Technology Lab](), advised by [Vera Khovanskaya](https://verakhovanskaya.github.io/)
+Independent research project advised by [Simone Sayers](https://simsayer.com/); project prototype implemented at a local legal nonprofit
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Open-Sourced Software for Water Filtration Monitoring and Shared Data Analysis, GLBL Foundation [[Website]](https://glblfoundation.notion.site/The-Water-Purifier-833c5e2cc24046b38169697cf1a49d90)</h4>
-**Jiayi Wu, Kasey Savage, Marley Abowitz, Tiffany Cai, Tommy Callen**
+<h4>Toward Collective Stewardship of Labour Data: Reimagining Frameworks for Union Data Aggregation, Access, and Governance</h4>
 
-Project at GLBL Foundation, supervised by Delaney Dill and Nelson Ngouenet
+Research project at [Labor Process and Technology Lab](), advised by [Vera Khovanskaya](https://verakhovanskaya.github.io/)
 </div>
 </div>
 
@@ -69,6 +69,15 @@ Research project at Brown University Department of Computer Science and [Center 
 
 
 #### Archived Projects
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Open-Sourced Software for Water Filtration Monitoring and Shared Data Analysis, GLBL Foundation [[Website]](https://glblfoundation.notion.site/The-Water-Purifier-833c5e2cc24046b38169697cf1a49d90)</h4>
+**Jiayi Wu, Kasey Savage, Marley Abowitz, Tiffany Cai, Tommy Callen**
+
+Project at GLBL Foundation, supervised by Delaney Dill and Nelson Ngouenet
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
