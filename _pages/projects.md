@@ -43,6 +43,15 @@ Research project at CSCI 2952W *Critical Data and Machine Learning Studies* and 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
+<h4>Atypical Combination and Scientific Impact in Computational Sciences</h4>
+**Huilian Sophie Qiu, Jiayi Wu**
+
+Research project at [Northwestern Institute on Complex Systems (NICO)](https://www.nico.northwestern.edu/), advised by [Huilian Sophie Qiu](https://www.sophiehsqq.com/index.html)
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
 <h4>When Complexities Clash: Experimenting Multi-Agent-Based Algospeak and Its Intractability in Censorship Evasion</h4>
 **Jiayi Wu**
 
