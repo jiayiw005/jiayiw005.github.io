@@ -9,7 +9,7 @@ permalink: /
 
 I am an undergraduate student at Brown University, studying in Mathematics-Computer Science and Urban Studies. As a student researcher and advocate, I'm excited about anything broadly related to **complex systems**, as well as **relevant AI/ML theory and applications**: 
 - Complex systems and sociotechnical infrastructure/governance (for urban landscapes and workplace algorithmic management in particular)
-- Accessiblity, distributivity, and participation of AI: fairness, transparency, interpretability, and auditing
+- AI alignment and participatory design, featuring fairness, interpretability, and auditing
 - Symbolic systems, multi-agent systems for language agents
 - Intersections of any terms above
 - ...
