@@ -9,7 +9,7 @@ permalink: /
 
 I am an undergraduate student at Brown University, studying in Mathematics-Computer Science and Urban Studies. As a student researcher and advocate, I'm excited about anything broadly related to **complex systems**, as well as relevant theories and applications of **technical AI governance**: 
 - Complex systems and sociotechnical infrastructure/governance (for urban landscapes and workplace algorithmic management in particular)
-- AI alignment and technical governance, featuring fairness, interpretability, and (participatory) auditing
+- AI alignment and technical governance, featuring fairness, interpretability, and (participatory) supply-chain audits
 - Symbolic systems, multi-agentic architectures
 - Intersections of any terms above
 - ...
