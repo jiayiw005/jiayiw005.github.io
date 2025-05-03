@@ -34,8 +34,24 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Toward Labor-Inclusive Food Delivery Algorithmic Management: Cross-Platforms Case Studies, Computational Approaches, and Regulatory Alternatives [[Preprint]]()[[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation)</h4>
-**Jiayi Wu**
+<h4>Longitudinal Auditing of Large Language Models on Exit Poll Responses During Election</h4>
+**Jiayi Wu, Sarah Cen, Chara Potimata**
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Agent City Hall: Capturing and Replicating Human Thought Processes, Opinions, and Sentiments in Response to Rezoning/The Grammar of Thought in Generative Minds: Cognitive Motifs as Primitives of Human-Like Reasoning</h4>
+**Chance Jiajie Li, Kaiya Ivy Zhao, Ao Qu, Zhenze Mo, Yuhan Tang, Jiayi Wu, Yulu Gan, Jie Fan**
+
+Research collaboration at City Science Group, MIT Media Lab
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Toward Deliverer-Centered Food Delivery Algorithmic Management: Cross-Platforms Case Studies, Computational Approaches, and Regulatory Alternatives [[Preprint]]()[[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation)</h4>
+**Jiayi Wu, Harini Suresh**
 
 Research project at CSCI 2952W *Critical Data and Machine Learning Studies* and [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/), advised by [Harini Suresh](https://harinisuresh.com/)
 </div>
@@ -52,21 +68,15 @@ Research project at [Northwestern Institute on Complex Systems (NICO)](https://w
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>When Complexities Clash: Experimenting Multi-Agent-Based Algospeak and Its Intractability in Censorship Evasion</h4>
-**Jiayi Wu**
-
-Independent research project advised by [Simone Sayers](https://simsayer.com/); project prototype implemented at a local legal nonprofit
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
 <h4>Open-Sourced Software for Water Filtration Monitoring and Shared Data Analysis, GLBL Foundation [[Website]](https://glblfoundation.notion.site/The-Water-Purifier-833c5e2cc24046b38169697cf1a49d90)</h4>
 **Jiayi Wu, Kasey Savage, Marley Abowitz, Tiffany Cai, Tommy Callen**
 
 Project at GLBL Foundation, supervised by Delaney Dill and Nelson Ngouenet
 </div>
 </div>
+
+
+#### Archived Projects
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -76,9 +86,6 @@ Project at GLBL Foundation, supervised by Delaney Dill and Nelson Ngouenet
 Research project at Brown University Department of Computer Science and [Center for Tech Responsibility (CNTR)](https://cntr.brown.edu/), advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/), [Socially Responsible Computing (SRC) Program](https://responsible.cs.brown.edu/)
 </div>
 </div>
-
-
-#### Archived Projects
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -114,17 +121,6 @@ NLP Track Portfolio Project at AI4ALL Ignite Fellowship, advised by [Gillian Soc
 <div class="col-md-12 col-sm-12">
 <h4>Enhancing Anonymity in Education Survey Datasets: Differential Privacy Implementation to Mitigate Linkage Attacks</h4>
 **Jiayi Wu**
-
-IB Mathematics Analysis & Approches Internal Assessment
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Shout Through the Air: A Digital Ethnography on the Rhetoric of China’s Lower-Class "Toilet Girl" as Empowerment and Subversion [[Research Paper]](https://pioneeracademics.com/journal/journal-2023/)</h4>
-**Jiayi Wu**
-
-Research project at Pioneer Academics, advised by [Kevin Marinelli](https://comm.unc.edu/people/department-faculty/kevin-marinelli/) under the research concentration *Rhetoric and Social Movements*; published on the Pioneer Research Journal 2023 (top 1.8%)
 </div>
 </div>
 
