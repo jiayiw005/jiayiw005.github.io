@@ -42,7 +42,7 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Agent City Hall: Capturing and Replicating Human Thought Processes, Opinions, and Sentiments in Response to Rezoning/The Grammar of Thought in Generative Minds: Cognitive Motifs as Primitives of Human-Like Reasoning</h4>
-**Chance Jiajie Li, Kaiya Ivy Zhao, Ao Qu, Zhenze Mo, Yuhan Tang, Jiayi Wu, Yulu Gan, Jie Fan**
+**Chance Jiajie Li, Zhenze Mo, Kaiya Ivy Zhao, Yulu Gan, Ao Qu, Yuhan Tang, Jiayi Wu, Jie Fan, Jiangbo Yu, Jinhua Zhao, Paul Pu Liang, Luis Alberto Alonso Pastor, Kent Larson**
 
 Research collaboration at City Science Group, MIT Media Lab
 </div>
@@ -84,13 +84,6 @@ Project at GLBL Foundation, supervised by Delaney Dill and Nelson Ngouenet
 **Emma Huang, Jiayi Wu, Jo Gasior-Kavishe, Samdeet Khan, Selena Williams**
 
 Research project at Brown University Department of Computer Science and [Center for Tech Responsibility (CNTR)](https://cntr.brown.edu/), advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/), [Socially Responsible Computing (SRC) Program](https://responsible.cs.brown.edu/)
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Adaptive Decision Tree Builder with Optimized Attribute Selection and Leaf Computation</h4>
-**Jiayi Wu, Xiaoxiao Chen**
 </div>
 </div>
 
