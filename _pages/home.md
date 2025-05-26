@@ -7,7 +7,7 @@ permalink: /
 
 ### About Me
 
-I am an undergraduate student at Brown University, studying in Mathematics-Computer Science and International and Public Affairs. As a student researcher and advocate, I'm excited about anything broadly related to **complex systems**, as well as relevant theories and applications of **technical AI governance**
+I am an undergraduate student at Brown University, studying in Mathematics-Computer Science and International and Public Affairs. As a student researcher and advocate, I'm excited about anything broadly related to **complex systems**, as well as relevant theories and applications of **technical AI governance**.
 
 When probing into theories that configures higher-level **design** and **policy** decisions, I'm also making my way to explore downstream, grassroots solutions that center **community-driven technologies**.
    
