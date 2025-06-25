@@ -34,14 +34,6 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Mapping Pluralistic Alignment in LLM Personalization</h4>
-
-Research project at MIT Sloan School of Management, advised by [Michiel Bakker](http://www.miba.dev/) and [Harini Suresh](https://harinisuresh.com/)
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
 <h4>Agent City Hall: Capturing and Replicating Human Thought Processes, Opinions, and Sentiments in Response to Rezoning/The Grammar of Thought in Generative Minds: Cognitive Motifs as Primitives of Human-Like Reasoning/Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958)</h4>
 Chance Jiajie Li, **Jiayi Wu**, Zhenze Mo, Ao Qu, Yuhan Tang, Kaiya Ivy Zhao, Yulu Gan, Jie Fan, Jiangbo Yu, Jinhua Zhao, Paul Liang, Luis Alonso, Kent Larsonn
 </div>
@@ -80,14 +72,6 @@ Research project at [The Data in Society Collective (DISCO Lab)](https://discola
 Emma Huang, **Jiayi Wu**, Jo Gasior-Kavishe, Samdeet Khan, Selena Williams
 
 Research project at Brown University Department of Computer Science and Center for Tech Responsibility (CNTR), advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/)
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>AsyLex-Based Refugee Claim Entity Extraction and Judgement Prediction [[GitHub Repository]](https://github.com/jiayiw005/refugee-claim-classifier)</h4>
-
-NLP Track Portfolio Project at AI4ALL Ignite Fellowship, advised by [Gillian Sochor](https://theorg.com/org/ai4all/org-chart/gillian-sochor)
 </div>
 </div>
 
