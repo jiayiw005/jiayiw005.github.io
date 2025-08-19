@@ -49,9 +49,17 @@ Chance Jiajie Li, **Jiayi Wu**, Zhenze Mo, Ao Qu, Yuhan Tang, Kaiya Ivy Zhao, Yu
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Toward Deliverer-Centered Food Delivery Algorithmic Management: Cross-Platforms Case Studies, Computational Approaches, and Regulatory Alternatives [[Preprint]]()[[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation)</h4>
+<h4>Formalizing Trade-Offs in Food Delivery Algorithmic Management: A Multi-Objective Optimization Approach and Auditing Proposals [[Preprint]]()[[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation)</h4>
 
 Research project at [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/), advised by [Harini Suresh](https://harinisuresh.com/)
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>AI Governance Glossary: Policy, Debate, and Etymology</h4>
+
+Project advised by [Sarah Cen](https://shcen.github.io/) and [Chara Potimata](https://www.charapodimata.com/)
 </div>
 </div>
 
