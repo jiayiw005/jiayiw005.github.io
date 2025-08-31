@@ -7,7 +7,7 @@ permalink: /
 
 ### About Me
 
-I am an undergraduate student at Brown University studying Mathematics-Computer Science and Engineering/Physics. As a student researcher and engineer, I'm excited about anything broadly related to **alignment**, **technical AI governance**, and **complex systems**.
+I am an undergraduate student at Brown University studying Mathematics-Computer Science and Engineering/Physics. As a student researcher and engineer, I'm interested in theoretical underpinnings of **alignment**, **reliability**, and **interpretability**, situated within broader questions of *technical AI governance* and *complex systems*.
 
 When probing into theories that configures higher-level **design** and **policy** decisions, I'm also making my way to explore downstream solutions that center **community-driven technologies**.
    
