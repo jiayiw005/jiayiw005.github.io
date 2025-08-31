@@ -38,8 +38,8 @@ iframe {
 
 Visiting summer researcher project at MIT Sloan School of Management and Center for Constructive Communication at Media Lab, in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) *et al.*, advised by [Michiel Bakker](https://miba.dev/)
 
-- Overton Pluralism Benchmark for LLM Evals [[Preprint]](), submitted to NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
-- Who Gets Represented?: Benchmarking Overton Pluralistic Alignment [[Preprint]]() [[Respository]](), submitted to International Conference on Learning Representations (ICLR) 2026
+- Overton Pluralism Benchmark for LLM Evals [[Preprint]](), submitting to NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
+- Who Gets Represented?: Benchmarking Overton Pluralistic Alignment [[Preprint]]() [[Respository]](), submitting to International Conference on Learning Representations (ICLR) 2026
 </div>
 </div>
 
@@ -48,8 +48,8 @@ Visiting summer researcher project at MIT Sloan School of Management and Center 
 <h4>Agent City Hall: Capturing and Replicating Human Thought Processes, Opinions, and Sentiments in Response to Rezoning</h4>
 Reseearch project in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
 
-- Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), submitted to Conference on Neural Information Processing Systems (NeurIPS) 2025
-- HugToM-QA: Towards Human-grounded Theory of Mind Question Answering [[Preprint]](), submitted to NeurIPS 2025 Workshop on LAW 2025: Bridging Language, Agent, and World Models
+- Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), submitting to Conference on Neural Information Processing Systems (NeurIPS) 2025
+- HugToM-QA: Towards Human-grounded Theory of Mind Question Answering [[Preprint]](), submitting to NeurIPS 2025 Workshop on LAW 2025: Bridging Language, Agent, and World Models
 - ...
 </div>
 </div>
@@ -59,6 +59,14 @@ Reseearch project in collaboration with [Chance Jiajie Li](https://2023.cjj.li/a
 <h4>AI Governance Glossary: Policy, Debate, and Etymology</h4>
 
 Project advised by [Sarah Cen](https://shcen.github.io/) and [Chara Potimata](https://www.charapodimata.com/)
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Multimodal Vision–Language Modeling for Autonomous Driving Scene Understanding</h4>
+
+Break Through Tech AI/ML Fellowship Studio Project at Latitude AI, Supervised by [Shivam Gautam](https://scholar.google.com/citations?user=ZJgIXd0AAAAJ)
 </div>
 </div>
 
