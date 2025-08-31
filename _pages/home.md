@@ -7,7 +7,7 @@ permalink: /
 
 ### About Me
 
-I am an undergraduate student at Brown University studying Mathematics-Computer Science and Engineering. As a student researcher and advocate, I'm excited about anything broadly related to **alignment**, **technical AI governance**, and **complex systems**.
+I am an undergraduate student at Brown University studying Mathematics-Computer Science and Engineering/Physics. As a student researcher and advocate, I'm excited about anything broadly related to **alignment**, **technical AI governance**, and **complex systems**.
 
 When probing into theories that configures higher-level **design** and **policy** decisions, I'm also making my way to explore downstream, grassroots solutions that center **community-driven technologies**.
    
@@ -25,4 +25,4 @@ Here is a list of selected [projects](https://jiayiw005.github.io/projects/):
 
 I work for/with a range of organizations and initiatives including [HOPE Vocational Education Academy](https://www.lncf.cn/edu/item/31.html), Period Pride, [Housing Opportunities for People Everywhere](https://www.linkedin.com/company/housing-opportunities-for-people-everywhere-hope/) (also HOPE!), etc. 
 
-In my spare time, I enjoyed taking on plank challenges (7min+) and roaming around residential urban villages ([Guangzhou](https://earth.google.com/earth/d/1YTg7TO4ODp5iSL_rj1xVqPlo7tOaysCh?usp=sharing)/Shanghai), where I lived and volunteered🏠 ;")
+In my spare time, I enjoy caffeine, taking on plank challenges (>=7min), and roaming around residential urban villages ([Guangzhou](https://earth.google.com/earth/d/1YTg7TO4ODp5iSL_rj1xVqPlo7tOaysCh?usp=sharing)/Shanghai), where I lived and volunteered🏠 ;")
