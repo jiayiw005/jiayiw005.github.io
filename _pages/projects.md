@@ -34,24 +34,23 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>MASTER: Measuring Overton Pluralistic Alignment</h4>
+<h4>Benchmarking Overton Pluralistic Alignment for LLM Evals</h4>
 
 Visiting summer researcher project at MIT Sloan School of Management and Center for Constructive Communication at Media Lab, in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) *et al.*, advised by [Michiel Bakker](https://miba.dev/)
+
+- Overton Pluralism Benchmark for LLM Evals [[Preprint]](), submitted to NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
+- Who Gets Represented?: Benchmarking Overton Pluralistic Alignment [[Preprint]]() [[Respository]](), submitted to International Conference on Learning Representations (ICLR) 2026
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Agent City Hall: Capturing and Replicating Human Thought Processes, Opinions, and Sentiments in Response to Rezoning/The Grammar of Thought in Generative Minds: Cognitive Motifs as Primitives of Human-Like Reasoning/Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958)</h4>
-Chance Jiajie Li, **Jiayi Wu**, Zhenze Mo, Ao Qu, Yuhan Tang, Kaiya Ivy Zhao, Yulu Gan, Jie Fan, Jiangbo Yu, Jinhua Zhao, Paul Liang, Luis Alonso, Kent Larsonn
-</div>
-</div>
+<h4>Agent City Hall: Capturing and Replicating Human Thought Processes, Opinions, and Sentiments in Response to Rezoning</h4>
+Reseearch project in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Formalizing Trade-Offs in Food Delivery Algorithmic Management: A Multi-Objective Optimization Approach and Auditing Proposals [[Preprint]]()[[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation)</h4>
-
-Research project at [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/), advised by [Harini Suresh](https://harinisuresh.com/)
+- Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), submitted to Conference on Neural Information Processing Systems (NeurIPS) 2025
+- HugToM-QA: Towards Human-grounded Theory of Mind Question Answering [[Preprint]](), submitted to NeurIPS 2025 Workshop on LAW 2025: Bridging Language, Agent, and World Models
+- ...
 </div>
 </div>
 
@@ -63,16 +62,16 @@ Project advised by [Sarah Cen](https://shcen.github.io/) and [Chara Potimata](ht
 </div>
 </div>
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Atypical Combination and Scientific Impact in Computational Sciences</h4>
-
-Research project at Northwestern Institute on Complex Systems (NICO), advised by [Huilian Sophie Qiu](https://www.sophiehsqq.com/index.html)
-</div>
-</div>
-
 
 #### Archived Projects
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Formalizing Trade-Offs in Food Delivery Algorithmic Management: A Multi-Objective Optimization Approach and Auditing Proposals [[Preprint]]()[[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation)</h4>
+
+Research project at [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/), advised by [Harini Suresh](https://harinisuresh.com/)
+</div>
+</div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -85,7 +84,7 @@ Research project at Brown University Department of Computer Science and Center f
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Open-Sourced Android Mobile Application for Educational Resource Sharing, Converter Education Initiative [[GitHub Repository]](https://github.com/jiayiw005/converter-android-app)</h4>
+<h4>Open-Sourced Android Mobile Application for Educational Resource Sharing, CONVERTER Education Initiative [[Repository]](https://github.com/jiayiw005/converter-android-app)</h4>
 
 Global First Place (5%) Awardee at China Thinks Big (CTB) Hackathon 2022
 </div>
