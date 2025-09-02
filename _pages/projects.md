@@ -39,7 +39,7 @@ iframe {
 Visiting summer researcher project at MIT Sloan School of Management and Center for Constructive Communication at Media Lab, in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) *et al.*, advised by [Michiel Bakker](https://miba.dev/)
 
 - Overton Pluralism Benchmark for LLM Evals [[Preprint]](), submitting to NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
-- Who Gets Represented?: Benchmarking Overton Pluralistic Alignment [[Preprint]]() [[Respository]](), submitting to International Conference on Learning Representations (ICLR) 2026
+- ...
 </div>
 </div>
 
@@ -49,7 +49,7 @@ Visiting summer researcher project at MIT Sloan School of Management and Center 
 Reseearch project in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
 
 - Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), submitting to Conference on Neural Information Processing Systems (NeurIPS) 2025
-- HugToM-QA: Towards Human-grounded Theory of Mind Question Answering [[Preprint]](), submitting to NeurIPS 2025 Workshop on LAW 2025: Bridging Language, Agent, and World Models
+- HugAgent: A Benchmark for Human-Grounded Agent Beliefs in Realistic Social Contexts [[Preprint]]() [[Repository]](https://anonymous.4open.science/r/HugAgent/), submitting to NeurIPS 2025 Workshop on LAW 2025: Bridging Language, Agent, and World Models
 - ...
 </div>
 </div>

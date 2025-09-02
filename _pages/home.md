@@ -15,10 +15,10 @@ When probing into theories that configures higher-level **design** and **policy*
 
 #### My Work
 Here is a list of selected [projects](https://jiayiw005.github.io/projects/):
-- Who Gets Represented?: Benchmarking Overton Pluralistic Alignment [[Preprint]]()[[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation), in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) *et al.*, advised by [Michiel Bakker](https://miba.dev/)
-- Formalizing Trade-Offs in Food Delivery Algorithmic Management: A Multi-Objective Optimization Approach and Auditing Proposals [[Preprint]]()[[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation), advised by [Harini Suresh](https://harinisuresh.com/)
+- Who Gets Represented?: Benchmarking Overton Pluralistic Alignment [[Preprint]]()[[Repository]](), in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) *et al.*, advised by [Michiel Bakker](https://miba.dev/)
+- Formalizing Trade-Offs in Food Delivery Algorithmic Management: A Multi-Objective Optimization Approach and Auditing Proposals [[Preprint]]()[[Repository]](https://github.com/jiayiw005/delivery-alg-simulation), advised by [Harini Suresh](https://harinisuresh.com/)
 - Algorithmic (AI/ML) Fairness Research for Socially Responsible Computing (SRC) Handbook [[Handbook]](https://srch.cs.brown.edu), advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/) 
-- Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
+- Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958); HugAgent: A Benchmark for Human-Grounded Agent Beliefs in Realistic Social Contexts [[Preprint]]() [[Repository]](https://anonymous.4open.science/r/HugAgent/), in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
 - ...
 
 #### Misc
