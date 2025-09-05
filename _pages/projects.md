@@ -36,9 +36,9 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4>Benchmarking Overton Pluralistic Alignment for LLM Evals</h4>
 
-Visiting summer researcher project at MIT Sloan School of Management and Center for Constructive Communication at Media Lab, in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) *et al.*, advised by [Michiel Bakker](https://miba.dev/)
+Visiting summer researcher project at MIT Sloan School of Management and Center for Constructive Communication at Media Lab, in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) and [Jiaxin Pei](https://jiaxin-pei.github.io/), advised by [Michiel Bakker](https://miba.dev/)
 
-- Overton Pluralism Benchmark for LLM Evals [[Preprint]](), submitting to NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
+- Benchmarking Overton Pluralism in LLMs [[Preprint]](), submitting to NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
 - ...
 </div>
 </div>
