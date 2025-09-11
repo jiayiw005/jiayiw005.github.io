@@ -38,7 +38,7 @@ iframe {
 
 Visiting summer researcher project at MIT Sloan School of Management and Center for Constructive Communication at Media Lab, in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) and [Jiaxin Pei](https://jiaxin-pei.github.io/), advised by [Michiel Bakker](https://miba.dev/)
 
-- Benchmarking Overton Pluralism in LLMs [[Preprint]](), submitting to NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
+- Benchmarking Overton Pluralism in LLMs, submitting to NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
 - ...
 </div>
 </div>
@@ -49,7 +49,7 @@ Visiting summer researcher project at MIT Sloan School of Management and Center 
 Reseearch project in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
 
 - Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), submitting to Conference on Neural Information Processing Systems (NeurIPS) 2025
-- HugAgent: A Benchmark for Human-Grounded Agent Beliefs in Realistic Social Contexts [[Preprint]]() [[Repository]](https://anonymous.4open.science/r/HugAgent/), submitting to NeurIPS 2025 Workshop on LAW 2025: Bridging Language, Agent, and World Models
+- HugAgent: A Benchmark for Human-Grounded Agent Beliefs in Realistic Social Contexts [[Repository]](https://github.com/jajamoa/HugAgent), submitting to NeurIPS 2025 Workshop on LAW 2025: Bridging Language, Agent, and World Models
 - ...
 </div>
 </div>
@@ -83,7 +83,7 @@ Final project at CSCI 1951Y Using an Interactive Proof Assistant to Do Mathemati
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Formalizing Trade-Offs in Food Delivery Algorithmic Management: A Multi-Objective Optimization Approach and Auditing Proposals [[Preprint]]()[[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation)</h4>
+<h4>Formalizing Trade-Offs in Food Delivery Algorithmic Management: A Multi-Objective Optimization Approach and Auditing Proposals [[Project Repository]](https://github.com/jiayiw005/delivery-alg-simulation)</h4>
 
 Research project at [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/), advised by [Harini Suresh](https://harinisuresh.com/)
 </div>
