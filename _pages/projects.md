@@ -70,6 +70,14 @@ Break Through Tech AI/ML Fellowship Studio Project at Latitude AI, Supervised by
 </div>
 </div>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>A Isabelle/HOL Translation of Hartshorne's Foundations of Projective Geometry</h4>
+
+Final project at CSCI 1951Y Using an Interactive Proof Assistant to Do Mathematics
+</div>
+</div>
+
 
 #### Archived Projects
 
