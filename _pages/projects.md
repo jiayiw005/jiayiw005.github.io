@@ -30,7 +30,6 @@ iframe {
 }
 </style>
 
-#### Ongoing Projects
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -38,18 +37,20 @@ iframe {
 
 Visiting summer researcher project at MIT Sloan School of Management and Center for Constructive Communication at Media Lab, in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) and [Jiaxin Pei](https://jiaxin-pei.github.io/), advised by [Michiel Bakker](https://miba.dev/)
 
-- Benchmarking Overton Pluralism in LLMs, submitting to NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
+- Benchmarking Overton Pluralism in LLMs, accepted to NeurIPS 2025 Workshop on [Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling](https://sites.google.com/view/llm-eval-workshop/)
+- Benchmarking Overton Pluralism in LLMs, submitting to International Conference on Learning Representations (ICLR) 2026
 - ...
 </div>
 </div>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Agent City Hall: Capturing and Replicating Human Thought Processes, Opinions, and Sentiments in Response to Rezoning</h4>
+<h4>Motifs of Thought: Reusable Abstractions for LLM Reasoning</h4>
 Reseearch project in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
 
-- Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), submitting to Conference on Neural Information Processing Systems (NeurIPS) 2025
-- HugAgent: A Benchmark for Human-Grounded Agent Beliefs in Realistic Social Contexts [[Repository]](https://github.com/jajamoa/HugAgent), submitting to NeurIPS 2025 Workshop on LAW 2025: Bridging Language, Agent, and World Models
+- Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), accepted to Conference on Neural Information Processing Systems (NeurIPS) 2025, Position Paper Track
+- HugAgent: A Benchmark for Human-Grounded Agent Beliefs in Realistic Social Contexts [[Repository]](https://github.com/jajamoa/HugAgent), accepted to to NeurIPS 2025 Workshop on [LAW 2025: Bridging Language, Agent, and World Models](https://sites.google.com/view/law-2025)
+- HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks, submitting to International Conference on Learning Representations (ICLR) 2026
 - ...
 </div>
 </div>
@@ -62,24 +63,6 @@ Project advised by [Sarah Cen](https://shcen.github.io/) and [Chara Potimata](ht
 </div>
 </div>
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Multimodal Vision–Language Modeling for Autonomous Driving Scene Understanding</h4>
-
-Break Through Tech AI/ML Fellowship Studio Project at Latitude AI, Supervised by [Shivam Gautam](https://scholar.google.com/citations?user=ZJgIXd0AAAAJ)
-</div>
-</div>
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>A Isabelle/HOL Translation of Hartshorne's Foundations of Projective Geometry</h4>
-
-Final project at CSCI 1951Y Using an Interactive Proof Assistant to Do Mathematics
-</div>
-</div>
-
-
-#### Archived Projects
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -92,7 +75,6 @@ Research project at [The Data in Society Collective (DISCO Lab)](https://discola
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>AI Fairness & Justice Research, Socially Responsible Computing (SRC) Handbook [[Handbook]](https://srch.cs.brown.edu)</h4>
-Emma Huang, **Jiayi Wu**, Julia Netter, Jo Gasior-Kavishe, Michelle Ding, Samdeet Khan, Selena Williams, Suresh Venkatasubramanian
 
 Research project at Brown University Department of Computer Science and Center for Tech Responsibility (CNTR), advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/)
 </div>
@@ -109,7 +91,6 @@ Global First Place (5%) Awardee at China Thinks Big (CTB) Hackathon 2022
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Multi-Factor ODE Simulation and Sensitivity Analysis of Honeybee Population Dynamics [[Research Paper]](https://jiayiw005.github.io/papers/Jiayi_HIMCM_Paper.pdf)</h4>
-**Jiayi Wu**, Alex Ren, Kaixin Luo, Haiqing Wu
 
 Math modeling paper at COMAP'S High School Mathematical Contest in Modeling (HiMCM), awarded Meritorious (top 15%)
 </div>
