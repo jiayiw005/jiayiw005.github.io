@@ -74,7 +74,7 @@ Research project at [The Data in Society Collective (DISCO Lab)](https://discola
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>AI Fairness & Justice Research, Socially Responsible Computing (SRC) Handbook [[Handbook]](https://srch.cs.brown.edu)</h4>
+<h4>Algorithmic Fairness and AI Governance Research, Socially Responsible Computing (SRC) Handbook [[Handbook]](https://srch.cs.brown.edu)</h4>
 
 Research project at Brown University Department of Computer Science and Center for Tech Responsibility (CNTR), advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/)
 </div>
