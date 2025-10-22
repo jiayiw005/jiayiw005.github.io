@@ -9,17 +9,16 @@ permalink: /
 
 Hi! I'm an undergraduate studying Mathematics-Computer Science and Applied Mathematics at Brown University. 
 
-As a student researcher and engineer, I’m interested in **alignment** and **trustworthy machine learning**. I'm exploring how frameworks from computational complexity, formal verification, and game theory can inform the limits, guarantees, and dynamics of accountable AI systems within the broader landscape of technical AI governance and complex systems. 
+As a student researcher and engineer, I’m interested in **alignment** and **trustworthy machine learning**. Driven by my applied work in benchmarking and auditing AI systems, I'm exploring how frameworks from computational complexity, formal verification, and game theory can inform the limits, guarantees, and dynamics of accountable AI systems within the broader landscape of technical AI governance and complex systems. 
 
 
 #### My Work
 Here is a list of selected [projects](https://jiayiw005.github.io/projects/):
 - Benchmarking Overton Pluralism in LLMs, in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) *et al.*, advised by [Michiel Bakker](https://miba.dev/), accepted to NeurIPS 2025 Workshop on [Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling](https://sites.google.com/view/llm-eval-workshop/)
-- Algorithmic Fairness and AI Governance Research for Socially Responsible Computing (SRC) Handbook [[Handbook]](https://srch.cs.brown.edu), advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/) 
-- Motifs of Thought: Reusable Abstractions for LLM Reasoning, in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
+- Motifs of Thought: Reusable Abstractions for LLM Reasoning, in collaboration with Chance Jiajie Li *et al.*
   - Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), accepted to Conference on Neural Information Processing Systems (NeurIPS) 2025, Position Paper Track
-  - HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks [[Repository]](https://anonymous.4open.science/r/HugAgent/) accepted to to NeurIPS 2025 Workshop on [LAW 2025: Bridging Language, Agent, and World Models](https://sites.google.com/view/law-2025)
-- Formalizing Trade-Offs in Food Delivery Algorithmic Management: A Multi-Objective Optimization Approach and Auditing Proposals [[Repository]](https://github.com/jiayiw005/delivery-alg-simulation), advised by [Harini Suresh](https://harinisuresh.com/)
+  - HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks [[Preprint]](https://arxiv.org/pdf/2510.15144) [[Repository]](https://anonymous.4open.science/r/HugAgent/) accepted to to NeurIPS 2025 Workshop on [LAW 2025: Bridging Language, Agent, and World Models](https://sites.google.com/view/law-2025)
+- Algorithmic Fairness and AI Governance Research for Socially Responsible Computing (SRC) Handbook [[Handbook]](https://srch.cs.brown.edu), advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/people/suresh-venkatasubramanian) and [Julia Netter](http://www.julianetter.de/) 
 - ...
 
 #### Misc

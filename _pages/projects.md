@@ -49,7 +49,7 @@ Visiting summer researcher project at MIT Sloan School of Management and Center 
 Reseearch project in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
 
 - Position: Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), accepted to Conference on Neural Information Processing Systems (NeurIPS) 2025, Position Paper Track
-- HugAgent: A Benchmark for Human-Grounded Agent Beliefs in Realistic Social Contexts [[Repository]](https://github.com/jajamoa/HugAgent), accepted to to NeurIPS 2025 Workshop on [LAW 2025: Bridging Language, Agent, and World Models](https://sites.google.com/view/law-2025)
+- HugAgent: A Benchmark for Human-Grounded Agent Beliefs in Realistic Social Contexts [[Preprint]](https://arxiv.org/pdf/2510.15144) [[Repository]](https://anonymous.4open.science/r/HugAgent/), accepted to to NeurIPS 2025 Workshop on [LAW 2025: Bridging Language, Agent, and World Models](https://sites.google.com/view/law-2025)
 - HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks, submitting to International Conference on Learning Representations (ICLR) 2026
 - ...
 </div>
