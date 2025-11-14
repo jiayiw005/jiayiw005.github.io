@@ -34,7 +34,7 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4 id="lean4-poof-mining">Pattern Mining and Automated Tactic Discovery in Lean4 Theorem Proving</h4>
 
-Research project advised by [Robert Lewis]() and [Stephen Bach]() at Brown University Department of Computer Science, in collaboration with [Gavin Zhao]()
+Research project advised by [Robert Lewis](https://robertylewis.com/) at Brown University Department of Computer Science
 </div>
 </div>
 
@@ -63,9 +63,9 @@ Reseearch project in collaboration with [Chance Jiajie Li](https://2023.cjj.li/a
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4 id="pluggable-analysis">Modular Verification and Static Analysis for Multi-Language Systems</h4>
+<h4 id="pluggable-analysis">Pluggable Analyses for Modern Real Systems</h4>
 
-Undergraduate Teaching and Research Awards (UTRA) project advised by [Nikos Vasilakis]() at [ATLAS Group](http://atlas.cs.brown.edu/), Brown Department of Computer Science
+Undergraduate Teaching and Research Awards (UTRA) project advised by [Nikos Vasilakis](https://nikos.vasilak.is/) at [ATLAS Group](http://atlas.cs.brown.edu/), Brown Department of Computer Science
 </div>
 </div>
 
@@ -81,9 +81,9 @@ Research project advised by [Sarah Cen](https://shcen.github.io/) at CMU Departm
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4 id="hartshorne-isabelle">Formalizing Hartshorne's Foundations of Projective Geometry in Isabelle/HOL</h4>
+<h4 id="hartshorne-isabelle">Formalizing Hartshorne's Foundations of Projective Geometry in Isabelle</h4>
 
-CSCI 1951Y Final Project advised by [John Hughes]()
+CSCI 1951Y Using an Interactive Proof Assistant to Do Mathematics Class Project
 </div>
 </div>
 
