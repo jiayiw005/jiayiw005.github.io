@@ -10,7 +10,7 @@ permalink: /
 Hi! I'm an undergraduate studying Mathematics-Computer Science and Applied Mathematics at Brown University. 
 
 I'm broadly interested in **trustworthy machine learning** through two major lenses:
-1. on the structure side, model inductive biases and architectures informed by compositionalities and neurosymbolic perspectives <sup>[1](/projects/#lean4-proof-mining), [2](/projects/#mot)</sup>; and
+1. on the structure side, model inductive biases and architectures informed by compositionalities and neurosymbolic approaches <sup>[1](/projects/#lean4-proof-mining), [2](/projects/#mot)</sup>; and
 2. on the guarantee side, formal verification <sup>[3](/projects/#pluggable-analysis), [1](/projects/#lean4-proof-mining)</sup>, game-theoretic multi-objective modeling<sup>[4](/projects/#am-auditing)</sup>, and auditing pipeline design for aligned, accountable AI systems <sup>[5](/projects/#overton-evals), [6](/projects/#src), [7](/projects/#ai-glossary)</sup>.
 
 
