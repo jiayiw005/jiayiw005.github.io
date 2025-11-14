@@ -52,10 +52,10 @@ Visiting summer researcher project at MIT Sloan School of Management and Center 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4 id="mot">Motifs of Thought (MoT): Reusable Abstractions for Neurosymbolic Reasoning</h4>
-Reseearch project in collaboration with [Chance Jiajie Li](https://2023.cjj.li/about) *et al.*
+Reseearch project in collaboration with [Chance Jiajie Li](https://cjj.li/research/) *et al.*
 
 - Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), accepted to Conference on Neural Information Processing Systems (NeurIPS) 2025, Position Paper Track
-- HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks [[Preprint]](https://arxiv.org/pdf/2510.15144) [[Repository]](https://anonymous.4open.science/r/HugAgent/), accepted to to NeurIPS 2025 Workshop on [LAW 2025: Bridging Language, Agent, and World Models](https://sites.google.com/view/law-2025)
+- HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks [[Preprint]](https://arxiv.org/pdf/2510.15144) [[Repository]](https://anonymous.4open.science/r/HugAgent/), accepted to to NeurIPS 2025 Workshop on [LAW 2025: Bridging Language, Agent, and World Models](https://sites.google.com/view/law-2025) and [PersonaLLM: Workshop on LLM Persona Modeling](https://personallmworkshop.github.io/) (Oral)
 - ...
 </div>
 </div>
