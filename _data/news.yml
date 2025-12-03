@@ -1,14 +1,23 @@
+- date: 25 Nov, 2025
+  headline: "I'll be TAing CSCI 1952B Responsible Computer Science in Practice over the spring! ^"
+  featured: true
+
 - date: 15 Oct, 2025
   headline: "We (AIRES) are co-hosting the \"AI Research Paths: Insights from Brown Alumni\" panel with Mosaic+! ;)"
+  featured: false
 
 - date: 15 Sep, 2025
   headline: "Excited to join Brown's Mathematics Directed Reading Program on combinatorial game theory and graph structures this semester! c:"
+  featured: true
 
 - date: 1 May, 2025
   headline: "I will be leading Brown's AI and Robotics Ethics Society (AIRES) as the Co-President over the next academic year :·)"
+  featured: true
 
 - date: 8 March, 2025
   headline: "I'm co-directing Brown China Summit's AI Governance Panel, \"Deep Currents: China's AI Strategy And Its Global Ripple Effects\" :-)"
+  featured: true
 
 - date: 13 November, 2024
   headline: "I'm organizing Brown Political Review's Alumni Panel, \"The Many Paths in Politics \" with our data board and diversity team :v)"
+  featured: false
