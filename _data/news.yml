@@ -1,13 +1,10 @@
-- date: 25 Nov, 2025
-  headline: "I'll be TAing CSCI 1952B Responsible Computer Science in Practice over the spring! ^"
-  featured: true
-
 - date: 15 Oct, 2025
-  headline: "We (AIRES) are co-hosting the \"AI Research Paths: Insights from Brown Alumni\" panel with Mosaic+! ;)"
+  headline: "We (AIRES) are co-hosting the \"AI Research Paths: Insights from Brown Alumni\" panel with Mosaic+ :*)"
   featured: false
+  image: /assets/img/news/251015.jpg
 
 - date: 15 Sep, 2025
-  headline: "Excited to join Brown's Mathematics Directed Reading Program on combinatorial game theory and graph structures this semester! c:"
+  headline: "Excited to join Brown's Mathematics Directed Reading Program on combinatorial game theory and graph structures this semester c:"
   featured: true
 
 - date: 1 May, 2025
