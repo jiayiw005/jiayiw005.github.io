@@ -39,6 +39,7 @@ Research project advised by [Robert Lewis](https://robertylewis.com/) and [Steph
 </div>
 
 
+
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4 id="overton-evals">Formalizing and Benchmarking Overton Pluralistic Alignment in Large Language Model Evaluation</h4>
@@ -81,6 +82,14 @@ Research project in collaboration with [Chance Jiajie Li](https://cjj.li/researc
 <h4 id="ai-glossary">AI Policy Glossary</h4>
 
 Research project advised by [Sarah Cen](https://shcen.github.io/) at Carnegie Mellon University Department of Electrical & Computer Engineering (ECE) and Engineering & Public Policy (EPP)
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4 id="lean4-poof-mining">Probing Structural Signals in Lean4 Proof Graphs with GNNs [[Repository]](https://github.com/jiayiw005/proofmining-gnn)</h4>
+
+Class final project at CSCI 2470 Deep Learning, Brown University Department of Computer Science
 </div>
 </div>
 

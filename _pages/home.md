@@ -15,7 +15,7 @@ I aim to build the *formal* and *empirical* infrastructure for **trustworthy and
 
 
 #### My Work
-Here is a list of selected [research projects](/projects/) and publications:
+Here is a list of selected [research projects and publications](/projects/):
 - Pattern Mining and Automated Tactic Discovery in Lean4 Theorem Proving, advised by [Robert Lewis](https://robertylewis.com/) and [Stephen Bach](https://cs.brown.edu/people/sbach/)
 - Formalizing and Benchmarking Overton Pluralism in LLMs [[Preprint]](https://arxiv.org/pdf/2512.01351), in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) *et al.*, advised by [Michiel Bakker](https://miba.dev/), accepted to NeurIPS 2025 Workshop on [Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling](https://sites.google.com/view/llm-eval-workshop/)
 - Pluggable Analyses for Modern Real Systems, [Undergraduate Teaching and Research Awards (UTRA)](https://utra.brown.edu/) project advised by [Nikos Vasilakis](https://nikos.vasilak.is/)
