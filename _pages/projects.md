@@ -38,20 +38,6 @@ Research project advised by [Robert Lewis](https://robertylewis.com/) and [Steph
 </div>
 </div>
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4 id="mot">Motif of Thoughts (MoT): Reusable Abstractions for Neurosymbolic Reasoning</h4>
-Research project in collaboration with [Chance Jiajie Li](https://cjj.li/research/) *et al.*
-
-- Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), accepted to Conference on Neural Information Processing Systems (NeurIPS) 2025, Position Paper Track
-- HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks [[Preprint]](https://arxiv.org/pdf/2510.15144) [[Repository]](https://anonymous.4open.science/r/HugAgent/), accepted to NeurIPS 2025 Workshop on
-  - [LAW 2025: Bridging Language, Agent, and World Models](https://sites.google.com/view/law-2025) <span style="background:#339966;padding:2px 6px;border-radius:4px;font-size:0.8em;">Spotlight</span>
-  - [PersonaLLM: Workshop on LLM Persona Modeling](https://personallmworkshop.github.io/) <span style="background:#339966;padding:2px 6px;border-radius:4px;font-size:0.8em;">Oral</span>
-  - [Socially Responsible and Trustworthy Foundation Models (ResponsibleFM)](https://responsible-fm.github.io/)
-- ...
-</div>
-</div>
-
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -60,6 +46,22 @@ Research project in collaboration with [Chance Jiajie Li](https://cjj.li/researc
 Visiting summer researcher project in collaboration with [Elinor Poole-Dayan](https://elinorp-d.github.io/) *et al.*, advised by [Michiel Bakker](https://miba.dev/) at Massachusetts Institute of Technology
 
 - Benchmarking Overton Pluralism in LLMs [[Preprint]](https://arxiv.org/pdf/2512.01351), accepted to NeurIPS 2025 Workshop on [Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling](https://sites.google.com/view/llm-eval-workshop/)
+- ...
+</div>
+</div>
+
+
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4 id="mot">Motif of Thoughts (MoT): Reusable Abstractions for Neurosymbolic Reasoning</h4>
+Research project in collaboration with [Chance Jiajie Li](https://cjj.li/research/) *et al.*
+
+- Simulating Society Requires Simulating Thought [[Preprint]](https://www.arxiv.org/abs/2506.06958), accepted to Conference on Neural Information Processing Systems (NeurIPS) 2025, Position Paper Track
+- HugAgent: Evaluating LLMs in Simulating Individual Reasoning on Open-Ended Tasks [[Preprint]](https://arxiv.org/pdf/2510.15144) [[Repository]](https://anonymous.4open.science/r/HugAgent/), accepted to NeurIPS 2025 Workshop on
+  - [LAW 2025: Bridging Language, Agent, and World Models](https://sites.google.com/view/law-2025) <span style="background:#339966;padding:2px 6px;border-radius:4px;font-size:0.8em;">Spotlight</span>
+  - [PersonaLLM: Workshop on LLM Persona Modeling](https://personallmworkshop.github.io/) <span style="background:#339966;padding:2px 6px;border-radius:4px;font-size:0.8em;">Oral</span>
+  - [Socially Responsible and Trustworthy Foundation Models (ResponsibleFM)](https://responsible-fm.github.io/)
 - ...
 </div>
 </div>
