@@ -89,7 +89,7 @@ Research project advised by [Sarah Cen](https://shcen.github.io/) at Carnegie Me
 <div class="col-md-12 col-sm-12">
 <h4 id="lean4-poof-mining">Probing Structural Signals in Lean4 Proof Graphs with GNNs [[Repository]](https://github.com/jiayiw005/proofmining-gnn)</h4>
 
-Class final project at CSCI 2470 Deep Learning, Brown University Department of Computer Science
+Class final project at CSCI 2470 Deep Learning
 </div>
 </div>
 
@@ -98,7 +98,7 @@ Class final project at CSCI 2470 Deep Learning, Brown University Department of C
 <div class="col-md-12 col-sm-12">
 <h4 id="hartshorne-isabelle">Formalizing Hartshorne's Foundations of Projective Geometry in Isabelle [[Repository]](https://github.com/spike7638/CS1951Y-2025/)</h4>
 
-Class final project at CSCI 1951Y Using an Interactive Proof Assistant to Do Mathematics, Brown University Department of Computer Science
+Class final project at CSCI 1951Y Using an Interactive Proof Assistant to Do Mathematics
 </div>
 </div>
 
@@ -115,6 +115,6 @@ Research project advised by [Suresh Venkatasubramanian](https://dsi.brown.edu/pe
 <div class="col-md-12 col-sm-12">
 <h4 id="am-auditing">Trade-Off Modeling and Auditing Formalization in Platform-Based Algorithmic Management: A Multi-Objective Optimization Approach</h4>
 
-Research project at [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/), advised by [Harini Suresh](https://harinisuresh.com/); previously class final project at CSCI 2952W Critical Data and Machine Learning, Brown University Department of Computer Science
+Research project at [The Data in Society Collective (DISCO Lab)](https://discolab.cs.brown.edu/), advised by [Harini Suresh](https://harinisuresh.com/); previously class final project at CSCI 2952W Critical Data and Machine Learning
 </div>
 </div>
