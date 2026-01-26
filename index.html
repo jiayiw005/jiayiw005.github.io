@@ -2,22 +2,24 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Home</title>
+  <title>Jiayi Wu</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
   <style>
     body {
-        max-width: 101ch;
+        max-width: 85ch;
         margin: 2em auto;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
     }
 
     .sidebox {
         float: right;
         width: 205px;
         margin-left: 12px;
-        margin-bottom: 8px;
         font-size: 0.95em;
     }
 
@@ -31,6 +33,13 @@
         clear: both;
     }
 
+    ul li {
+      margin-bottom: 0.5em;
+    }
+
+
+    
+
 </style>
 </head>
 
@@ -43,17 +52,17 @@
     
 
     <div class="sidebox">
-    <img src="images/headshot.png" alt="Picture of Jiayi Wu" width="205">
+    <img src="images/headshot_close.png" alt="Picture of Jiayi Wu" width="205">
 
     <p><strong>Jiayi Wu</strong> <i>(jyah-yee/jiā-yì)</i></p>
     <p>
-        <a href="mailto:jiayi_wu4@brown.edu">Email</a> --
-        <a href="https://scholar.google.com/citations?user=Rv53IzEAAAAJ&hl=en">Google Scholar</a> --
+        <a href="mailto:jiayi_wu4@brown.edu">Email</a> -
+        <a href="https://scholar.google.com/citations?user=Rv53IzEAAAAJ&hl=en">Google Scholar</a> -
         <a href="cv_short.pdf">CV</a>
     </p>
     <p>
-        <a href="https://github.com/jiayiw005">GitHub</a> --
-        <a href="https://www.linkedin.com/in/jiayiw005/">LinkedIn</a> --
+        <a href="https://github.com/jiayiw005">GitHub</a> -
+        <a href="https://www.linkedin.com/in/jiayiw005/">LinkedIn</a> -
         <a href="news.html">Updates</a>
     </p>
     </div>
@@ -72,30 +81,31 @@
 
     <ul>
     <li>
-        on the <em>learning</em> side, model architectures informed by structured latent
-        representations and neurosymbolic approaches <sup><a href="cv_short.pdf#lean4-proof-mining">[1]</a>,
-        <a href="cv_short.pdf#mot">[2]</a></sup>, and how they support more robust and interpretable reasoning models.
+        On the <em>construction</em> side, model architectures informed by various learning paradigms<sup><a href="cv_short.pdf#lean4-proof-mining">1</a></sup>
+         (neurosymbolic programming<sup><a href="cv_short.pdf#mot">2</a></sup> in particular), and how they enable more robust and interpretable reasoning models.
     </li>
     <li>
-        on the <em>guarantee</em> side, evaluation and auditing pipeline design
-        <sup><a href="cv_short.pdf#overton-evals">[3]</a>, <a href="cv_short.pdf#am-auditing">[4]</a>
-        </sup>
-        informed by formal verification
-        <sup><a href="cv_short.pdf#pluggable-analysis">[5]</a>, <a href="cv_short.pdf#lean4-proof-mining">[1]</a></sup>,
+        On the <em>guarantee</em> side, evaluation and auditing pipeline design<sup><a href="cv_short.pdf#overton-evals">3</a></sup>
+        informed by formal verification<sup><a href="cv_short.pdf#pluggable-analysis">5</a>, <a href="cv_short.pdf#lean4-proof-mining">1</a></sup>,
         and how they scaffold more aligned and accountable automated systems.
     </li>
     </ul>
-    <p>In particular, I'm interested in formal theorem proving and program synthesis as fully specified, unambiguous, verifiable substrates for studying models' reasoning processes. </p>
+    <p>Concretely, I've been interested in formal theorem proving and program synthesis as fully specified, unambiguous, machine-checkable substrates for studying models' reasoning processes;
+      I'm also interested in how they interact and integrate with general-purpose foundation-model systems. </p>
 </div>
+
+
+
+<div>
 
 <h3>My Work</h3>
 
 <p>
-  Below are selected projects and publications; a full list of research projects is available in my <a href="cv_short.pdf">academic CV</a>.
+  Below are selected projects and publications; a full list of research projects is available in my <a href="cv_short.pdf">academic CV</a>.</p> 
 
 <ul>
   <li>
-    Pattern Mining and Automated Tactic Discovery in Lean 4 Theorem Proving, in collaboration with Gavin Zhao, 
+    Pattern Mining and Automated Tactic Discovery in Lean 4 Theorem Proving, in collaboration with Gavin Zhao <em>et al.</em>, 
     advised by
     <a href="https://robertylewis.com/">Robert Lewis</a>
     and
@@ -110,10 +120,8 @@
     <em>et al.</em>,
     advised by
     <a href="https://miba.dev/">Michiel Bakker</a>,
-    accepted to NeurIPS 2025 Workshop on
-    <a href="https://sites.google.com/view/llm-eval-workshop/">
-      Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
-    </a>
+    accepted to the Fourteenth International Conference on Learning Representations (ICLR 2026) 
+    and NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling
   </li>
 
   <li>
@@ -127,28 +135,24 @@
         Simulating Society Requires Simulating Thought
         (position paper on causally grounded reasoning modules for multi-agent systems)
         <a href="https://www.arxiv.org/pdf/2506.06958">[Preprint]</a>,
-        accepted to The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+        accepted to the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
       </li>
 
       <li>
         HugAgent: Evaluating LLMs in Simulating Individual Reasoning on Open-Ended Tasks
         <a href="https://arxiv.org/pdf/2510.15144">[Preprint]</a>
         <a href="https://anonymous.4open.science/r/HugAgent/">[Repository]</a>,
-        accepted to NeurIPS 2025 Workshop on
-        <a href="https://sites.google.com/view/law-2025">
-          LAW 2025: Bridging Language, Agent, and World Models
-        </a>
-        <em style="color:red">(Spotlight)</em>, 
-        <a href="https://personallmworkshop.github.io/">PersonaLLM: Workshop on LLM Persona Modeling</a>
-        <em style="color:red">(Oral)</em>, and <a href="https://responsible-fm.github.io/">Socially Responsible and Trustworthy Foundation Models (ResponsibleFM)</a>
+        accepted to NeurIPS 2025 Workshop on LAW 2025: Bridging Language, Agent, and World Models
+        <em style="color:red">(Spotlight)</em>, PersonaLLM: Workshop on LLM Persona Modeling
+        <em style="color:red">(Oral)</em>, and Socially Responsible and Trustworthy Foundation Models (ResponsibleFM)
       </li>
     </ul>
   </li>
 
   <li>
     Pluggable Analyses for Modern Real Systems, 
-    <a href="https://utra.brown.edu/">Undergraduate Teaching and Research Awards (UTRA)</a> project advised by
-    <a href="https://nikos.vasilak.is/">Nikos Vasilakis</a>
+    <a href="https://utra.brown.edu/">Undergraduate Teaching and Research Awards (UTRA)</a> project in collaboration with <a href="https://llazarek.github.io/">Lukas Lazarek</a> <em>et al.</em>,
+    advised by <a href="https://nikos.vasilak.is/">Nikos Vasilakis</a>
   </li>
 
   <li>
@@ -162,21 +166,27 @@
     <a href="http://www.julianetter.de/">Julia Netter</a>
   </li>
 </ul>
+</div>
 
 
+
+
+<div>
 
 <h3>Misc</h3>
-<p>Outside of research, I help oragnize communities at Brown that connect technology with governance and public-interest perspectives. 
-  I’m co-president of Brown’s <a href="https://www.theaires.org/">AI and Robotics Ethics Society (AIRES)</a>; 
+
+<p>Outside of research, I help organize communities at Brown that connect technology with governance and public-interest perspectives. 
+  I’m co-president of Brown’s <a href="https://www.theaires.org/">AI and Robotics Ethics Society (AIRES)</a> and an undergraduate teaching assistant
+  at <a href="https://cs.brown.edu/courses/csci1952b/2026/">CSCI 1952B Responsible Computer Science in Practice</a>; 
   I also co-directed the AI Governance Panel at <a href="https://www.brownchinasummit.org/">Brown China Summit 2025</a>; 
   more updates are available <a href="news.html">here</a>!</p>
 <p>
   In my spare time, I enjoy cold brew, taking on plank challenges (≥7min),
-  and roaming around the neighborhoods/community orgs where I live and volunteer
+  and roaming around the neighborhoods and community spaces I'm involved in
   🏘️🌳 -- if I'm not in
-  <a href="https://cs.brown.edu/about/directions/">CIT</a>
-  :)
+  <a href="https://cs.brown.edu/about/directions/">CIT</a>^;
 </p>
+</div>
 
 </body>
 </html>
