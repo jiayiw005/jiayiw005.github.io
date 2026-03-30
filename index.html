@@ -4,7 +4,6 @@
   <meta charset="utf-8">
   <title>Jiayi Wu</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
   <style>
@@ -15,7 +14,7 @@
                "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         line-height: 1.3em;
     }
-
+    
     .sidebox {
         float: right;
         width: 230px;
@@ -71,9 +70,7 @@
 
     <h1>Hello:)</h1>
     <p>
-    Hi! I'm an undergrad studying Mathematics (A.B.) and Computer Science (Sc.B.) at Brown University,
-    advised by <a href="https://dsi.brown.edu/people/suresh-venkatasubramanian">Suresh Venkatasubramanian</a>
-    and <a href="https://www.math.brown.edu/ivogt/">Isabel Vogt</a>.
+    Hi! I'm an undergrad studying Mathematics (A.B.) and Computer Science (Sc.B.) at Brown University.
     </p>
 
 
@@ -86,14 +83,14 @@
 
     <ul>
     <li>
-      <strong>AI for mathematics and automated reasoning</strong>: Formal theorem proving <a href="cv_short.pdf#itp-interop">[1]</a> <a href="cv_short.pdf#proof-mining">[2]</a> and program synthesis <a href="cv_short.pdf#mot">[3]</a>
+      <strong>AI for mathematics and automated reasoning</strong>: Formal theorem proving <a href="cv_short.pdf#itp-interop">[1]</a> <a href="cv_short.pdf#proof-mining">[2]</a> and program synthesis <a href="cv_short.pdf#mot">[3]</a> <a href="cv_short.pdf#spec-inf-rt">[4]</a>
       are fully specified, unambiguous, machine-checkable substrates for studying models' reasoning processes.
-      Concretely, I'm interested in designing model architectures that leverage various learning paradigms (reinforcement learning and neurosymbolic programming in particular) to enable more robust and interpretable reasoning.  
+      Concretely, I'm interested in designing model architectures that leverage various learning paradigms (neurosymbolic programming in particular) to enable more robust and interpretable reasoning, in formal theorem proving and beyond.  
     </li>
     <li>
-      <strong>Principled evaluation, auditing, and guarantees</strong>: Evaluating trustworthiness requires pipelines that adapt to different systems at different stages of model design, development, and deployment.
-      I'm interested in enabling these pipelines to reason about security <a href="cv_short.pdf#spec-inf-rt">[4]</a>, alignment <a href="cv_short.pdf#overton-evals">[5]</a>, and accountability <a href="cv_short.pdf#src">[6]</a>
-      across these stages and throughout the full model lifecycle and supply chain. 
+      <strong>Principled evaluation, auditing, and guarantees</strong>: I'm interested in designing evaluation and auditing approaches that attach formal or statistical evidence to model properties,
+      from specification conformance and robustness <a href="cv_short.pdf#spec-inf-rt">[4]</a> <a href="cv_short.pdf#itp-interop">[1]</a> to value alignment <a href="cv_short.pdf#overton-evals">[5]</a> and supply-chain provenance.
+      These approaches should generalize across systems, development stages, and deployment contexts.
     </li>
     </ul>
 
@@ -111,13 +108,13 @@
 <ul>
   <li>
     Interoperability for Formal Mathematics: Automating Proof Translation Across Interactive Theorem Provers,
-    <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf">Summer Undergraduate Research Fellowships (SURF)</a> project advised by <a href="https://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a>, 
+    Caltech <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf">Summer Undergraduate Research Fellowships (SURF)</a> project advised by <a href="https://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a>, 
     in collaboration with <a href="https://www.robertj1.com/">Robert Joseph George</a>.
   </li>
 
   <li>
     Formalizing and Benchmarking Overton Pluralism in LLMs,
-    advised by
+    MIT summer visiting student project advised by
     <a href="https://miba.dev/">Michiel Bakker</a>,
     in collaboration with
     <a href="https://elinorp-d.github.io/">Elinor Poole-Dayan</a>.
@@ -125,12 +122,15 @@
       Elinor Poole-Dayan, <strong>Jiayi Wu</strong>, Taylor Sorensen, Jiaxin Pei, Michiel A. Bakker.
       <u>Benchmarking Overton Pluralism in LLMs.</u>
       ICLR 2026. Previously in NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle.
-     <a href="https://arxiv.org/pdf/2512.01351">[arXiv]</a> <a href="https://github.com/elinorp-d/overtonbench">[GitHub]</a> <a href="https://huggingface.co/datasets/elinorpd/overtonbench">[HuggingFace]</a>
+     <a href="https://arxiv.org/pdf/2512.01351">[arXiv]</a> 
+     <a href="https://github.com/elinorp-d/overtonbench">[GitHub]</a> 
+     <a href="https://huggingface.co/datasets/elinorpd/overtonbench">[HuggingFace]</a>
+     <a href="https://overtonbench.github.io/">[Project Page]</a>
     </div>
   </li>
 
   <li>
-    Pattern Mining and Automated Tactic Discovery in Formal Theorem Proving, advised by
+    Pattern Mining and Automated Tactic Discovery in Formal Theorem Proving, research project advised by
     <a href="https://robertylewis.com/">Robert Lewis</a>
     and
     <a href="https://cs.brown.edu/people/sbach/">Stephen Bach</a>,
@@ -139,7 +139,7 @@
 
   <li>
     Motif of Thoughts (MoT): Reusable Abstractions for Compositional Neurosymbolic Reasoning,
-    in collaboration with
+    research project in collaboration with
     <a href="https://cjj.li/research/">Chance Jiajie Li</a>.
 
     <div class="pub">
@@ -160,39 +160,32 @@
 
   <li>
     Neurosymbolic Synthesis of Regular Stream Types, 
-    <a href="https://utra.brown.edu/">Undergraduate Teaching and Research Awards (UTRA)</a> project
+    Brown University <a href="https://utra.brown.edu/">Undergraduate Teaching and Research Awards (UTRA)</a> project
     advised by <a href="https://nikos.vasilak.is/">Nikos Vasilakis</a>,
     in collaboration with <a href="https://llazarek.github.io/">Lukas Lazarek</a>, <a href="https://spanning-tree.github.io/">Zekai Li</a>, and <a href="https://vagos.lamprou.xyz/">Evangelos Lamprou</a>.
   </li>
 
-  <li>
-    AI Governance, AI Safety, and Algorithmic Fairness Primer at Socially Responsible Computing (SRC) Handbook
-    <a href="https://srch.cs.brown.edu">[Handbook]</a>,
-    advised by
-    <a href="https://dsi.brown.edu/people/suresh-venkatasubramanian">Suresh Venkatasubramanian</a>,
-    <a href="http://www.julianetter.de/">Julia Netter</a>,
-    and <a href="https://slbooth.com/">Serena Booth</a>.
-  </li>
 </ul>
+
 </div>
-
-
 
 
 <div>
 
 <h3>Misc</h3>
 
-<p>Outside of research, I help organize communities at Brown that connect technology with governance and public-interest perspectives. 
-  I’m co-president of Brown’s <a href="https://www.theaires.org/">AI and Robotics Ethics Society (AIRES)</a> and an undergraduate teaching assistant
-  at <a href="https://cs.brown.edu/courses/csci1952b/2026/">CSCI 1952B Responsible Computer Science in Practice</a>; 
-  I also co-directed the AI Governance Panel at <a href="https://www.brownchinasummit.org/">Brown China Summit 2025</a>; 
-  more updates are available <a href="news.html">here</a>!</p>
+<p>I help organize communities at Brown that connect technology with governance and public-interest perspectives. 
+  I’m co-president of Brown’s <a href="https://www.theaires.org/">AI and Robotics Ethics Society (AIRES)</a> and co-director of the AI Governance Panel at <a href="https://www.brownchinasummit.org/">Brown China Summit 2025</a>. 
+  I'm also writing the AI governance, AI safety, and algorithmic fairness primers for Brown's <a href="https://srch.cs.brown.edu/">Socially Responsible Computing (SRC) Handbook</a>.
+  More updates are available <a href="news.html">here</a>!
+</p>
+
+
 <p>
-  In my spare time, I enjoy cold brew, taking on plank challenges (≥7min),
+  In my spare time, I enjoy cold brew, taking on plank challenges (≥7min), thinking (<a href="random.html">about what?</a>),
   and roaming around the neighborhoods and community spaces I'm involved in
   🏘️🌳 -- if I'm not in
-  <a href="https://cs.brown.edu/about/directions/">CIT</a> or the <a href="https://library.brown.edu/josiah/locations/location_rock.html">the Rock's basement stacks</a>^;
+  <a href="https://cs.brown.edu/about/directions/">CIT</a> or <a href="https://library.brown.edu/josiah/locations/location_rock.html">the Rock's basement stacks</a>^;
 </p>
 </div>
 
