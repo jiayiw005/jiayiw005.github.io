@@ -10,15 +10,26 @@
     body {
         max-width: 85ch;
         margin: 2em auto;
+        padding: 0 1em;
         font-family: system-ui, -apple-system, BlinkMacSystemFont,
                "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         line-height: 1.3em;
+        color: #222;
     }
-    
+
+    @media (max-width: 600px) {
+        .sidebox {
+            float: none;
+            width: 100%;
+            margin-left: 0;
+            margin-bottom: 1.5em;
+        }
+    }
+
     .sidebox {
         float: right;
-        width: 230px;
-        margin-left: 10px;
+        width: 240px;
+        margin-left: 2em;
         font-size: 0.95em;
     }
 
@@ -26,33 +37,36 @@
         margin: 0.4em 0;
     }
 
-
     ul li {
       margin-bottom: 0.5em;
     }
-    
+
     .pub {
-      margin-bottom: 0.4em;
-      margin-top: 0.4em;
+      margin-bottom: 0.5em;
+      margin-top: 0.5em;
       line-height: 1.4em;
-      padding: 0.6em 0.8em;
-      border: 1px solid #e5e5e5;
-      border-radius: 4px;
     }
 
-    
+    .news {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .news li {
+      margin-bottom: 0.8em;
+    }
+
+    .date {
+      font-weight: bold;
+      white-space: nowrap;
+    }
 
 </style>
 </head>
 
 <body>
 
-
-<div class="intro">
-
-    
-
-    <div class="sidebox">
+<div class="sidebox">
     <img src="images/headshot.png" alt="picture of me" width="223">
 
     <p><strong>Jiayi Wu</strong> <i>(jyah-yee/jiā-yì)</i></p>
@@ -66,127 +80,99 @@
         <a href="https://www.linkedin.com/in/jiayiw005/">LinkedIn</a> --
         <a href="news.html">Updates</a>
     </p>
-    </div>
 
-    <h1>Hello:)</h1>
-    <p>
-    Hi! I'm an undergrad studying Mathematics (A.B.) and Computer Science (Sc.B.) at Brown University.
-    </p>
-
-
-    <p>
-    I hope to build the <em>formal</em> and <em>empirical</em> infrastructure for
-    <strong>trustworthy machine learning</strong> across two complementary
-    dimensions:
-    </p>
-    
-
-    <ul>
-    <li>
-      <strong>AI for mathematics and automated reasoning</strong>: Formal theorem proving <a href="cv_short.pdf#itp-interop">[1]</a> <a href="cv_short.pdf#proof-mining">[2]</a> and program synthesis <a href="cv_short.pdf#mot">[3]</a> <a href="cv_short.pdf#spec-inf-rt">[4]</a>
-      are fully specified, unambiguous, machine-checkable substrates for studying models' reasoning processes.
-      Concretely, I'm interested in designing model architectures that leverage various learning paradigms (neurosymbolic programming in particular) to enable more robust and interpretable reasoning, in formal theorem proving and beyond.  
-    </li>
-    <li>
-      <strong>Principled evaluation, auditing, and guarantees</strong>: I'm interested in designing evaluation and auditing approaches that attach formal or statistical evidence to model properties,
-      from specification conformance and robustness <a href="cv_short.pdf#spec-inf-rt">[4]</a> <a href="cv_short.pdf#itp-interop">[1]</a> to value alignment <a href="cv_short.pdf#overton-evals">[5]</a> and supply-chain provenance.
-      These approaches should generalize across systems, development stages, and deployment contexts.
-    </li>
+    <ul class="news">
+      <li>
+        <span class="date">2 April, 2026.</span>
+        I'm joining Anima AI+Science Lab this summer through Caltech's
+        Summer Undergraduate Research Fellowships (SURF) program!
+      </li>
+      <li>
+        <span class="date">5 Dec, 2025.</span>
+        Presenting our position paper and workshop papers at NeurIPS 2025 in San Diego this week c:
+      </li>
+      <li>
+        <span class="date">10 Nov, 2025.</span>
+        I'm joining ATLAS Group next year through Brown's Undergraduate Teaching and Research Awards (UTRA)!
+      </li>
     </ul>
-
 </div>
 
+<div style="overflow: hidden;">
 
+<h1>Hello:)</h1>
 
-<div>
+<p>Hi! I'm an undergrad studying Mathematics (A.B.) and Computer Science (Sc.B.) at Brown University.
+I hope to build the <em>formal</em> and <em>empirical</em> infrastructure for
+<strong>trustworthy machine learning</strong> across two complementary dimensions:</p>
 
-<h3>My Work</h3>
+<details>
+  <summary><strong>AI for mathematics and automated reasoning</strong>:
+    How can we design models that reason robustly and interpretably, grounded in formal theorem proving and program synthesis?</summary>
+  <p style="margin-left: 1.5em; margin-top: 0.4em;">
+    Formal theorem proving <a href="cv_short.pdf#itp-interop">[1]</a> <a href="cv_short.pdf#proof-mining">[2]</a> and program synthesis <a href="cv_short.pdf#mot">[3]</a> <a href="cv_short.pdf#spec-inf-rt">[4]</a>
+    are fully specified, unambiguous, machine-checkable substrates for studying models' reasoning processes.
+    Concretely, I'm interested in designing model architectures that leverage various learning paradigms (neurosymbolic programming in particular) to enable more robust and interpretable reasoning, in formal theorem proving and beyond.
+  </p>
+</details>
 
-<p>
-  Below are selected projects and publications; a more comprehensive list is available in my <a href="cv_short.pdf">academic CV</a>.</p> 
+<details>
+  <summary><strong>Principled evaluation, auditing, and guarantees</strong>:
+    How do we substantiate trustworthiness claims about ML systems through systematic evaluation and formal guarantees?</summary>
+  <p style="margin-left: 1.5em; margin-top: 0.4em;">
+    I'm interested in designing evaluation and auditing approaches that attach formal or statistical evidence to model properties,
+    from specification conformance and robustness <a href="cv_short.pdf#spec-inf-rt">[4]</a> <a href="cv_short.pdf#itp-interop">[1]</a> to value alignment <a href="cv_short.pdf#overton-evals">[5]</a> and supply-chain provenance.
+    These approaches should generalize across systems, development stages, and deployment contexts.
+  </p>
+</details>
 
-<ul>
-  <li>
-    Interoperability for Formal Mathematics: Automating Proof Translation Across Interactive Theorem Provers,
-    Caltech <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf">Summer Undergraduate Research Fellowships (SURF)</a> project advised by <a href="https://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a>, 
-    in collaboration with <a href="https://www.robertj1.com/">Robert Joseph George</a>.
-  </li>
+<p>Below are selected publications; a more comprehensive list of research projects and publications is available in my <a href="cv_short.pdf">academic CV</a>.</p>
 
-  <li>
-    Formalizing and Benchmarking Overton Pluralism in LLMs,
-    MIT summer visiting student project advised by
-    <a href="https://miba.dev/">Michiel Bakker</a>,
-    in collaboration with
-    <a href="https://elinorp-d.github.io/">Elinor Poole-Dayan</a>.
-    <div class="pub">
-      Elinor Poole-Dayan, <strong>Jiayi Wu</strong>, Taylor Sorensen, Jiaxin Pei, Michiel A. Bakker.
-      <u>Benchmarking Overton Pluralism in LLMs.</u>
-      ICLR 2026. Previously in NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle.
-     <a href="https://arxiv.org/pdf/2512.01351">[arXiv]</a> 
-     <a href="https://github.com/elinorp-d/overtonbench">[GitHub]</a> 
-     <a href="https://huggingface.co/datasets/elinorpd/overtonbench">[HuggingFace]</a>
-     <a href="https://overtonbench.github.io/">[Project Page]</a>
-    </div>
-  </li>
-
-  <li>
-    Pattern Mining and Automated Tactic Discovery in Formal Theorem Proving, research project advised by
-    <a href="https://robertylewis.com/">Robert Lewis</a>
-    and
-    <a href="https://cs.brown.edu/people/sbach/">Stephen Bach</a>,
-    in collaboration with Gavin Zhao, <a href="https://spanning-tree.github.io/">Zekai Li</a>, and <a href="https://www.linkedin.com/in/ilija-ivanov/">Ilija Ivanov</a>. 
-  </li>
-
-  <li>
-    Motif of Thoughts (MoT): Reusable Abstractions for Compositional Neurosymbolic Reasoning,
-    research project in collaboration with
-    <a href="https://cjj.li/research/">Chance Jiajie Li</a>.
-
-    <div class="pub">
-      Chance Jiajie Li*, <strong>Jiayi Wu*</strong>, Zhenze Mo, Ao Qu, Yuhan Tang, Kaiya Ivy Zhao, Yulu Gan, Jie Fan, Jiangbo Yu, Jinhua Zhao, Paul Pu Liang, Luis Alberto Alonso Pastor, Kent Larson.
-      <u>Simulating Society Requires Simulating Thought.</u>
-      NeurIPS 2025 Position Paper Track <em style="color:red">(5.7%)</em>.
-      <a href="https://arxiv.org/pdf/2506.06958">[arXiv]</a>
-    </div>
-
-    <div class="pub">
-      Chance Jiajie Li, Zhenze Mo, Yuhan Tang, Ao Qu, <strong>Jiayi Wu</strong>, Kaiya Ivy Zhao, Yulu Gan, Jie Fan, Jiangbo Yu, Hang Jiang, Paul Pu Liang, Jinhua Zhao, Luis Alberto Alonso Pastor, Kent Larson.
-      <u>HugAgent: Evaluating LLMs in Simulating Individual-Level Human Reasoning on Open-Ended Tasks.</u>
-      NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning <em style="color:red">(Spotlight)</em>. 
-      Also in NeurIPS 2025 Workshop on PersonaLLM <em style="color:red">(Oral)</em> and NeurIPS 2025 Workshop on Socially Responsible and Trustworthy Foundation Models.
-      <a href="https://arxiv.org/pdf/2510.15144">[arXiv]</a> <a href="https://anonymous.4open.science/r/HugAgent/">[GitHub]</a>
-    </div>
-  </li>
-
-  <li>
-    Neurosymbolic Synthesis of Regular Stream Types, 
-    Brown University <a href="https://utra.brown.edu/">Undergraduate Teaching and Research Awards (UTRA)</a> project
-    advised by <a href="https://nikos.vasilak.is/">Nikos Vasilakis</a>,
-    in collaboration with <a href="https://llazarek.github.io/">Lukas Lazarek</a>, <a href="https://spanning-tree.github.io/">Zekai Li</a>, and <a href="https://vagos.lamprou.xyz/">Evangelos Lamprou</a>.
-  </li>
-
+<ul style="padding-left: 1.2em;">
+  <li><div class="pub">
+    <strong>Jiayi Wu</strong>, Robert Joseph George, Anima Anandkumar.
+    <u>ITPEval: Benchmarking Formal Translation Across Interactive Theorem Provers.</u>
+    Under review.
+    <a href="https://anonymous.4open.science/r/itp-interop-3DDC/">[GitHub]</a>
+    <a href="https://huggingface.co/datasets/anonymous-itp/itpeval">[HuggingFace]</a>
+  </div></li>
+  <li><div class="pub">
+    Elinor Poole-Dayan, <strong>Jiayi Wu</strong>, Taylor Sorensen, Jiaxin Pei, Michiel A. Bakker.
+    <u>Benchmarking Overton Pluralism in LLMs.</u>
+    ICLR 2026. Previously in NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle.
+    <a href="https://arxiv.org/pdf/2512.01351">[arXiv]</a>
+    <a href="https://github.com/elinorp-d/overtonbench">[GitHub]</a>
+    <a href="https://huggingface.co/datasets/elinorpd/overtonbench">[HuggingFace]</a>
+    <a href="https://overtonbench.github.io/">[Project Page]</a>
+  </div></li>
+  <li><div class="pub">
+    Ilija Ivanov, <strong>Jiayi Wu</strong>, Gavin Zhao, Zekai Li, Stephen Bach, Robert Lewis.
+    <u>Mining Machine-Generated Lean Proofs: Advice for Users, Developers, and Testers.</u>
+    Under review.
+  </div></li>
+  <li><div class="pub">
+    Chance Jiajie Li*, <strong>Jiayi Wu*</strong>, Zhenze Mo, Ao Qu, Yuhan Tang, Kaiya Ivy Zhao, Yulu Gan, Jie Fan, Jiangbo Yu, Jinhua Zhao, Paul Pu Liang, Luis Alberto Alonso Pastor, Kent Larson.
+    <u>Simulating Society Requires Simulating Thought.</u>
+    NeurIPS 2025 Position Paper Track.
+    <a href="https://arxiv.org/pdf/2506.06958">[arXiv]</a>
+  </div></li>
 </ul>
 
-</div>
 
-
-<div>
-
-<h3>Misc</h3>
-
-<p>I help organize communities at Brown that connect technology with governance and public-interest perspectives. 
+<p>I help organize communities that connect technology with governance and public-interest perspectives. 
   I’m co-president of Brown’s <a href="https://www.theaires.org/">AI and Robotics Ethics Society (AIRES)</a> and co-director of the AI Governance Panel at <a href="https://www.brownchinasummit.org/">Brown China Summit 2025</a>. 
-  I'm also writing the AI safety, AI governance, and algorithmic fairness primers for Brown's <a href="https://srch.cs.brown.edu/">Socially Responsible Computing (SRC) Handbook</a>.
-  More updates are available <a href="news.html">here</a>!
+  I'm also writing for CMU's EncyclopAIdia AI Policy Glossary and Brown's <a href="https://srch.cs.brown.edu/">Socially Responsible Computing (SRC) Handbook</a>.
+  Related updates are available <a href="news.html">here</a>!
 </p>
 
-
 <p>
-  In my spare time, I enjoy cold brew, taking on plank challenges (≥7min), thinking,
+  In my spare time, I enjoy cold brew, taking on plank challenges (≥7min),
   and roaming around the neighborhoods and community spaces I'm involved in
   🏘️🌳 -- if I'm not in
   <a href="https://cs.brown.edu/about/directions/">CIT</a> or <a href="https://library.brown.edu/josiah/locations/location_rock.html">the Rock's basement stacks</a>^;
 </p>
+
+
 </div>
 
 </body>
